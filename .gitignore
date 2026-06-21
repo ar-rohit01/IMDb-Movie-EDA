@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+env/
+
+# VS Code settings
+.vscode/
+
+# Google Colab temporary files
+*.tmp
