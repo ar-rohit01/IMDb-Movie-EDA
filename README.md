@@ -85,14 +85,13 @@ IMDb-Movie-EDA/
 │   └── movies_cleaned.csv
 │
 ├── images/
-│   ├── 01_correlation_heatmap.png
+│   ├── ![Correlation Heatmap](01_correlation_heatmap.png)
 │   ├── 02_imdb_rating_distribution.png
 │   ├── 03_imdb_rating_by_region_boxplot.png
 │   ├── 04_rating_vs_gross_scatter.png
 │   ├── 05_gross_by_genre_region_boxplot.png
 │   ├── 06_genre_distribution_region.png
-│   └── imdb_project_banner.png
-│
+│   └──![Project Banner](imdb_project_banner.png)
 ├── README.md
 ├── requirements.txt
 ├── LICENSE
