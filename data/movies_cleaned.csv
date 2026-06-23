@@ -1,0 +1,601 @@
+Movie_Title,Release_Year,Genre,IMDb_Rating,Num_Votes,Gross_Earnings,Director_Name,Region,Runtime_Minutes,Certificate
+Kabir Singh,2008,"Drama, Romance",7.5,41632,3.61,Sandeep Reddy Vanga,Bollywood,185,A
+Lagaan,2023,"Drama, Musical, Sports",7.2,76865,3.61,Ashutosh Gowariker,Bollywood,181,U
+Kabir Singh,2022,"Drama, Romance",6.4,66427,1.65,Sandeep Reddy Vanga,Bollywood,194,A
+Jawan,2013,"Action, Thriller",6.4,180976,3.61,Atlee,Bollywood,140,UA
+Shershaah,2013,"Action, Biography, Drama",8.9,169564,0.0,Vishnuvardhan,Bollywood,137,UA
+Shershaah,2016,"Action, Biography, Drama",8.8,73935,3.61,Vishnuvardhan,Bollywood,161,UA
+Gangs of Wasseypur,2008,"Action, Comedy, Crime",7.8,138085,0.65,Anurag Kashyap,Bollywood,239,A
+Haider,2026,"Action, Drama, Thriller",8.2,41618,0.59,Vishal Bhardwaj,Bollywood,152,UA
+Kabir Singh,2022,"Drama, Romance",7.4,84685,4.78,Sandeep Reddy Vanga,Bollywood,140,A
+War,2007,"Action, Thriller",7.3,43224,4.02,Siddharth Anand,Bollywood,153,UA
+Kabir Singh,2019,"Drama, Romance",6.5,41757,5.25,Sandeep Reddy Vanga,Bollywood,178,A
+Barfi!,2016,"Comedy, Drama, Romance",9.1,60137,6.55,Anurag Basu,Bollywood,172,UA
+Bajrangi Bhaijaan,2026,"Action, Adventure, Comedy",8.3,102329,6.756250000000001,Kabir Khan,Bollywood,146,UA
+3 Idiots,2026,"Comedy, Drama",8.8,548291,3.61,Rajkumar Hirani,Bollywood,159,UA
+Bajrangi Bhaijaan,2019,"Action, Adventure, Comedy",9.0,172309,3.61,Kabir Khan,Bollywood,180,UA
+Sholay,2025,"Action, Adventure, Comedy",8.8,75689,3.61,Ramesh Sippy,Bollywood,225,U
+Swades,2021,Drama,8.4,110961,3.61,Ashutosh Gowariker,Bollywood,217,U
+Pathaan,2012,"Action, Adventure, Thriller",5.4,124295,3.61,Siddharth Anand,Bollywood,145,UA
+Swades,2022,Drama,7.5,109163,1.22,Ashutosh Gowariker,Bollywood,217,U
+PK,2022,"Comedy, Drama, Sci-Fi",8.5,203220,6.756250000000001,Rajkumar Hirani,Bollywood,177,UA
+Sanju,2012,"Biography, Drama",7.3,82947,3.61,Rajkumar Hirani,Bollywood,124,UA
+Dangal,2012,"Action, Biography, Drama",9.1,357890,3.61,Nitesh Tiwari,Bollywood,146,U
+Andhadhun,2009,"Comedy, Crime, Music",7.7,106432,0.67,Sriram Raghavan,Bollywood,147,UA
+Zindagi Na Milegi Dobara,2019,"Comedy, Drama, Musical",8.5,158099,3.61,Zoya Akhtar,Bollywood,169,UA
+Sholay,2012,"Action, Adventure, Comedy",7.5,70375,3.37,Ramesh Sippy,Bollywood,183,U
+Yeh Jawaani Hai Deewani,2022,"Comedy, Drama, Romance",6.4,109940,6.756250000000001,Ayan Mukerji,Bollywood,187,UA
+Bajrangi Bhaijaan,2018,"Action, Adventure, Comedy",8.1,170712,6.03,Kabir Khan,Bollywood,130,UA
+Haider,2019,"Action, Drama, Thriller",7.8,106478,1.44,Vishal Bhardwaj,Bollywood,173,UA
+Pathaan,2011,"Action, Adventure, Thriller",6.1,120822,6.756250000000001,Siddharth Anand,Bollywood,150,UA
+Gangs of Wasseypur,2021,"Action, Comedy, Crime",7.3,119865,0.24,Anurag Kashyap,Bollywood,239,A
+Barfi! Returns,2023,"Comedy, Drama, Romance",8.3,47567,3.61,Anurag Basu,Bollywood,156,UA
+Haider III,2011,"Action, Drama, Thriller",7.5,60152,0.89,Vishal Bhardwaj,Bollywood,148,UA
+Lagaan Part 2,2019,"Drama, Musical, Sports",7.2,98367,3.61,Ashutosh Gowariker,Bollywood,239,U
+Queen III,2010,"Comedy, Drama",7.85,105761,4.15,Vikas Bahl,Bollywood,154,UA
+Pathaan Returns,2009,"Action, Adventure, Thriller",5.1,60770,6.756250000000001,Siddharth Anand,Bollywood,152,UA
+PK III,2021,"Comedy, Drama, Sci-Fi",7.6,344514,3.61,Rajkumar Hirani,Bollywood,148,UA
+3 Idiots 3,2009,"Comedy, Drama",7.7,488356,6.756250000000001,Rajkumar Hirani,Bollywood,143,UA
+Gangubai Kathiawadi Reloaded,2022,"Biography, Crime, Drama",8.5,48081,3.61,Sanjay Leela Bhansali,Bollywood,124,UA
+Haider Part 2,2016,"Action, Drama, Thriller",8.4,82522,1.45,Vishal Bhardwaj,Bollywood,183,UA
+My Name Is Khan Reloaded,2012,Drama,8.9,180196,1.47,Karan Johar,Bollywood,180,UA
+Haider Chapter 2,2026,"Action, Drama, Thriller",7.5,92458,3.61,Vishal Bhardwaj,Bollywood,182,UA
+Taare Zameen Par Chapter 3,2016,"Drama, Family",8.9,361396,3.61,Aamir Khan,Bollywood,144,U
+Gangs of Wasseypur Returns,2013,"Action, Comedy, Crime",8.5,104454,6.756250000000001,Anurag Kashyap,Bollywood,239,A
+War Reloaded,2023,"Action, Thriller",5.6,44635,3.61,Siddharth Anand,Bollywood,150,UA
+Sholay Chapter 2,2023,"Action, Adventure, Comedy",7.6,93790,3.61,Ramesh Sippy,Bollywood,219,U
+My Name Is Khan II,2016,Drama,7.0,157117,3.61,Karan Johar,Bollywood,175,UA
+Bhaag Milkha Bhaag III,2021,"Biography, Drama, Sports",8.5,69249,2.34,Rakeysh Omprakash Mehra,Bollywood,163,UA
+Barfi! Reloaded,2024,"Comedy, Drama, Romance",7.9,148799,3.61,Anurag Basu,Bollywood,146,UA
+Kabir Singh 3,2019,"Drama, Romance",6.9,39386,6.756250000000001,Sandeep Reddy Vanga,Bollywood,193,A
+Lagaan III,2021,"Drama, Musical, Sports",7.3,231359,3.61,Ashutosh Gowariker,Bollywood,199,U
+3 Idiots Part 2,2012,"Comedy, Drama",8.6,694148,6.756250000000001,Rajkumar Hirani,Bollywood,175,UA
+Barfi! Chapter 3,2017,"Comedy, Drama, Romance",7.4,130171,6.756250000000001,Anurag Basu,Bollywood,174,UA
+Sanju Reloaded,2021,"Biography, Drama",6.7,52427,6.756250000000001,Rajkumar Hirani,Bollywood,173,UA
+Andhadhun Vengeance,2015,"Comedy, Crime, Music",8.4,138944,3.05,Sriram Raghavan,Bollywood,141,UA
+My Name Is Khan Chapter 3,2019,Drama,8.4,184778,3.61,Karan Johar,Bollywood,163,UA
+Yeh Jawaani Hai Deewani Returns,2014,"Comedy, Drama, Romance",6.8,53876,2.56,Ayan Mukerji,Bollywood,142,UA
+Gangubai Kathiawadi II,2007,"Biography, Crime, Drama",7.6,45987,2.92,Sanjay Leela Bhansali,Bollywood,147,UA
+Stree Part 2,2023,"Comedy, Horror",7.5,76564,3.61,Amar Kaushik,Bollywood,146,UA
+Zindagi Na Milegi Dobara Legacy,2022,"Comedy, Drama, Musical",8.2,72752,4.18,Zoya Akhtar,Bollywood,165,UA
+My Name Is Khan Reloaded,2019,Drama,8.9,136624,6.756250000000001,Karan Johar,Bollywood,175,UA
+Zindagi Na Milegi Dobara Reloaded,2019,"Comedy, Drama, Musical",7.3,85492,3.61,Zoya Akhtar,Bollywood,144,UA
+War Chapter 2,2013,"Action, Thriller",6.4,51953,3.61,Siddharth Anand,Bollywood,137,UA
+Kabir Singh Part 2,2005,"Drama, Romance",6.4,25467,3.61,Sandeep Reddy Vanga,Bollywood,171,A
+PK Chapter 3,2013,"Comedy, Drama, Sci-Fi",7.4,261011,6.46,Rajkumar Hirani,Bollywood,172,UA
+Sholay Vengeance,2005,"Action, Adventure, Comedy",8.3,111722,6.756250000000001,Ramesh Sippy,Bollywood,179,U
+Taare Zameen Par II,2008,"Drama, Family",9.0,280123,3.61,Aamir Khan,Bollywood,183,U
+Zindagi Na Milegi Dobara 3,2007,"Comedy, Drama, Musical",7.2,90407,4.56,Zoya Akhtar,Bollywood,146,UA
+Yeh Jawaani Hai Deewani Reloaded,2018,"Comedy, Drama, Romance",7.8,107151,3.61,Ayan Mukerji,Bollywood,177,UA
+Taare Zameen Par Vengeance,2013,"Drama, Family",9.0,349219,3.61,Aamir Khan,Bollywood,148,U
+Shershaah Chapter 2,2015,"Action, Biography, Drama",8.4,128377,0.0,Vishnuvardhan,Bollywood,121,UA
+Shershaah III,2022,"Action, Biography, Drama",8.4,102256,3.61,Vishnuvardhan,Bollywood,134,UA
+Gangubai Kathiawadi Chapter 3,2025,"Biography, Crime, Drama",7.7,18405,3.61,Sanjay Leela Bhansali,Bollywood,163,UA
+Stree 3,2020,"Comedy, Horror",7.4,64756,3.61,Amar Kaushik,Bollywood,125,UA
+Sanju Returns,2011,"Biography, Drama",6.8,78227,6.32,Rajkumar Hirani,Bollywood,137,UA
+My Name Is Khan Vengeance,2021,Drama,7.85,183638,3.61,Karan Johar,Bollywood,143,UA
+Dilwale Dulhania Le Jayenge III,2006,"Drama, Romance",7.85,111321,3.61,Aditya Chopra,Bollywood,158,U
+Gully Boy Chapter 3,2019,"Drama, Musical",7.3,24236,6.756250000000001,Zoya Akhtar,Bollywood,173,UA
+Lagaan Vengeance,2025,"Drama, Musical, Sports",7.4,206005,0.48,Ashutosh Gowariker,Bollywood,201,U
+Zindagi Na Milegi Dobara Vengeance,2024,"Comedy, Drama, Musical",8.8,85645,3.42,Zoya Akhtar,Bollywood,160,UA
+Stree Vengeance,2006,"Comedy, Horror",8.4,32467,3.61,Amar Kaushik,Bollywood,106,UA
+Andhadhun Returns,2010,"Comedy, Crime, Music",8.0,134996,0.47,Sriram Raghavan,Bollywood,127,UA
+Gangs of Wasseypur Chapter 3,2007,"Action, Comedy, Crime",9.0,159765,1.04,Anurag Kashyap,Bollywood,239,A
+Andhadhun II,2025,"Comedy, Crime, Music",9.0,153115,3.61,Sriram Raghavan,Bollywood,155,UA
+Taare Zameen Par Vengeance,2014,"Drama, Family",7.5,306603,3.41,Aamir Khan,Bollywood,165,U
+Lagaan Vengeance,2006,"Drama, Musical, Sports",8.6,168668,3.61,Ashutosh Gowariker,Bollywood,239,U
+Stree Vengeance,2005,"Comedy, Horror",7.7,65786,3.61,Amar Kaushik,Bollywood,135,UA
+Bajrangi Bhaijaan Vengeance,2018,"Action, Adventure, Comedy",9.0,114476,6.756250000000001,Kabir Khan,Bollywood,137,UA
+Zindagi Na Milegi Dobara Chapter 3,2014,"Comedy, Drama, Musical",8.8,106011,3.56,Zoya Akhtar,Bollywood,144,UA
+Barfi! Legacy,2005,"Comedy, Drama, Romance",7.9,66416,6.56,Anurag Basu,Bollywood,239,UA
+PK III,2022,"Comedy, Drama, Sci-Fi",9.0,214077,6.66,Rajkumar Hirani,Bollywood,181,UA
+Sanju Reloaded,2014,"Biography, Drama",7.7,38388,6.756250000000001,Rajkumar Hirani,Bollywood,152,UA
+Taare Zameen Par Reloaded,2020,"Drama, Family",8.3,182027,3.54,Aamir Khan,Bollywood,148,U
+Barfi! II,2024,"Comedy, Drama, Romance",8.8,77721,3.98,Anurag Basu,Bollywood,177,UA
+Taare Zameen Par Part 2,2014,"Drama, Family",9.0,273977,3.16,Aamir Khan,Bollywood,161,U
+Jawan Legacy,2022,"Action, Thriller",6.9,108093,3.61,Atlee,Bollywood,150,UA
+Gangs of Wasseypur Chapter 2,2006,"Action, Comedy, Crime",8.7,147994,0.67,Anurag Kashyap,Bollywood,239,A
+Dilwale Dulhania Le Jayenge Chapter 3,2006,"Drama, Romance",8.0,99739,6.65,Aditya Chopra,Bollywood,184,U
+Yeh Jawaani Hai Deewani Part 2,2009,"Comedy, Drama, Romance",8.0,107521,3.61,Ayan Mukerji,Bollywood,149,UA
+Kabir Singh Returns,2015,"Drama, Romance",7.9,69129,6.756250000000001,Sandeep Reddy Vanga,Bollywood,175,A
+Sanju III,2012,"Biography, Drama",7.5,38859,6.756250000000001,Rajkumar Hirani,Bollywood,151,UA
+Bhaag Milkha Bhaag Part 2,2006,"Biography, Drama, Sports",8.8,65803,0.9,Rakeysh Omprakash Mehra,Bollywood,188,UA
+Chak De! India Reloaded,2010,"Drama, Family, Sports",7.3,148113,1.05,Shimit Amin,Bollywood,174,U
+Yeh Jawaani Hai Deewani III,2019,"Comedy, Drama, Romance",7.6,101659,4.09,Ayan Mukerji,Bollywood,162,UA
+Queen Vengeance,2014,"Comedy, Drama",8.5,80597,3.61,Vikas Bahl,Bollywood,166,UA
+Barfi! Vengeance,2016,"Comedy, Drama, Romance",9.1,80141,5.82,Anurag Basu,Bollywood,137,UA
+Uri: The Surgical Strike Part 2,2024,"Action, Drama, History",8.9,120536,3.78,Aditya Dhar,Bollywood,154,UA
+PK Vengeance,2013,"Comedy, Drama, Sci-Fi",8.4,343194,6.756250000000001,Rajkumar Hirani,Bollywood,149,UA
+My Name Is Khan Reloaded,2007,Drama,7.6,117941,3.61,Karan Johar,Bollywood,189,UA
+Drishyam III,2010,"Crime, Drama, Mystery",9.0,182046,0.77,Nishikant Kamat,Bollywood,187,UA
+Yeh Jawaani Hai Deewani Returns,2009,"Comedy, Drama, Romance",8.0,87247,6.756250000000001,Ayan Mukerji,Bollywood,179,UA
+Chak De! India Chapter 2,2005,"Drama, Family, Sports",8.2,96938,2.33,Shimit Amin,Bollywood,155,U
+Queen Returns,2026,"Comedy, Drama",8.0,97193,1.66,Vikas Bahl,Bollywood,152,UA
+Kabir Singh Chapter 3,2014,"Drama, Romance",6.2,27264,3.61,Sandeep Reddy Vanga,Bollywood,146,A
+Andhadhun Reloaded,2017,"Comedy, Crime, Music",7.9,169318,2.11,Sriram Raghavan,Bollywood,143,UA
+Bhaag Milkha Bhaag Chapter 2,2025,"Biography, Drama, Sports",8.9,99643,1.37,Rakeysh Omprakash Mehra,Bollywood,200,UA
+Yeh Jawaani Hai Deewani II,2016,"Comedy, Drama, Romance",8.3,57805,6.756250000000001,Ayan Mukerji,Bollywood,131,UA
+Sholay Chapter 3,2007,"Action, Adventure, Comedy",8.4,83743,3.61,Ramesh Sippy,Bollywood,183,U
+Stree II,2007,"Comedy, Horror",7.7,68783,3.61,Amar Kaushik,Bollywood,142,UA
+War Reloaded,2009,"Action, Thriller",7.1,21276,3.02,Siddharth Anand,Bollywood,145,UA
+Stree 3,2005,"Comedy, Horror",7.0,27605,1.09,Amar Kaushik,Bollywood,105,UA
+Queen Legacy,2023,"Comedy, Drama",8.0,56598,3.17,Vikas Bahl,Bollywood,169,UA
+Pathaan Chapter 3,2025,"Action, Adventure, Thriller",5.0,112099,6.756250000000001,Siddharth Anand,Bollywood,145,UA
+Lagaan Returns,2015,"Drama, Musical, Sports",7.2,109502,1.6,Ashutosh Gowariker,Bollywood,208,U
+Drishyam III,2019,"Crime, Drama, Mystery",7.4,147503,1.44,Nishikant Kamat,Bollywood,180,UA
+PK Chapter 2,2019,"Comedy, Drama, Sci-Fi",7.9,322108,6.756250000000001,Rajkumar Hirani,Bollywood,141,UA
+War 3,2009,"Action, Thriller",5.6,55925,3.61,Siddharth Anand,Bollywood,169,UA
+Dilwale Dulhania Le Jayenge Legacy,2006,"Drama, Romance",8.3,80367,6.756250000000001,Aditya Chopra,Bollywood,183,U
+Dangal III,2024,"Action, Biography, Drama",8.0,273375,3.61,Nitesh Tiwari,Bollywood,159,U
+Queen Legacy,2016,"Comedy, Drama",8.6,92558,3.61,Vikas Bahl,Bollywood,173,UA
+Shershaah Legacy,2005,"Action, Biography, Drama",7.5,118287,0.0,Vishnuvardhan,Bollywood,126,UA
+Dilwale Dulhania Le Jayenge Vengeance,2026,"Drama, Romance",7.1,116024,1.37,Aditya Chopra,Bollywood,191,U
+Yeh Jawaani Hai Deewani 3,2010,"Comedy, Drama, Romance",6.9,54261,6.756250000000001,Ayan Mukerji,Bollywood,184,UA
+Swades Vengeance,2006,Drama,7.7,134361,1.79,Ashutosh Gowariker,Bollywood,171,U
+Sholay 3,2018,"Action, Adventure, Comedy",7.7,91063,6.72,Ramesh Sippy,Bollywood,166,U
+Shershaah Part 2,2005,"Action, Biography, Drama",8.0,106190,3.61,Vishnuvardhan,Bollywood,123,UA
+Gully Boy Chapter 2,2010,"Drama, Musical",7.7,65331,6.756250000000001,Zoya Akhtar,Bollywood,172,UA
+Gangs of Wasseypur Part 2,2018,"Action, Comedy, Crime",8.1,58595,3.61,Anurag Kashyap,Bollywood,239,A
+Zindagi Na Milegi Dobara III,2008,"Comedy, Drama, Musical",7.2,78972,6.1,Zoya Akhtar,Bollywood,175,UA
+Lagaan Chapter 2,2008,"Drama, Musical, Sports",8.0,132080,3.61,Ashutosh Gowariker,Bollywood,239,U
+Swades Reloaded,2007,Drama,8.3,71177,1.5,Ashutosh Gowariker,Bollywood,223,U
+Dilwale Dulhania Le Jayenge II,2008,"Drama, Romance",7.5,54737,3.61,Aditya Chopra,Bollywood,156,U
+Kabir Singh Chapter 3,2019,"Drama, Romance",7.4,87507,6.756250000000001,Sandeep Reddy Vanga,Bollywood,160,A
+Jawan Reloaded,2019,"Action, Thriller",6.9,159178,6.756250000000001,Atlee,Bollywood,158,UA
+Yeh Jawaani Hai Deewani Chapter 3,2006,"Comedy, Drama, Romance",7.0,51183,6.756250000000001,Ayan Mukerji,Bollywood,133,UA
+Barfi! Chapter 3,2023,"Comedy, Drama, Romance",8.0,145751,3.27,Anurag Basu,Bollywood,149,UA
+Dangal Chapter 3,2008,"Action, Biography, Drama",9.3,125298,5.03,Nitesh Tiwari,Bollywood,174,U
+Drishyam Legacy,2024,"Crime, Drama, Mystery",7.9,178305,1.67,Nishikant Kamat,Bollywood,174,UA
+Kabir Singh 3,2007,"Drama, Romance",6.2,72843,3.61,Sandeep Reddy Vanga,Bollywood,197,A
+Shershaah Reloaded,2015,"Action, Biography, Drama",8.6,92578,3.61,Vishnuvardhan,Bollywood,145,UA
+Shershaah Returns,2014,"Action, Biography, Drama",8.7,129052,3.61,Vishnuvardhan,Bollywood,152,UA
+Uri: The Surgical Strike Legacy,2007,"Action, Drama, History",8.2,34277,3.61,Aditya Dhar,Bollywood,129,UA
+PK II,2009,"Comedy, Drama, Sci-Fi",7.3,326828,3.61,Rajkumar Hirani,Bollywood,173,UA
+Dangal 3,2024,"Action, Biography, Drama",8.5,146275,3.61,Nitesh Tiwari,Bollywood,178,U
+Bajrangi Bhaijaan Chapter 3,2006,"Action, Adventure, Comedy",7.8,150040,6.756250000000001,Kabir Khan,Bollywood,179,UA
+Sanju Legacy,2012,"Biography, Drama",8.5,100593,6.51,Rajkumar Hirani,Bollywood,166,UA
+Yeh Jawaani Hai Deewani Chapter 3,2014,"Comedy, Drama, Romance",7.3,62039,3.61,Ayan Mukerji,Bollywood,179,UA
+War Part 2,2025,"Action, Thriller",7.2,42617,3.61,Siddharth Anand,Bollywood,175,UA
+Swades Reloaded,2013,Drama,9.0,64892,3.43,Ashutosh Gowariker,Bollywood,167,U
+Queen Part 2,2018,"Comedy, Drama",7.9,72144,0.73,Vikas Bahl,Bollywood,129,UA
+Sholay 3,2009,"Action, Adventure, Comedy",7.2,112565,6.756250000000001,Ramesh Sippy,Bollywood,225,U
+Shershaah Part 2,2007,"Action, Biography, Drama",7.9,227817,0.0,Vishnuvardhan,Bollywood,136,UA
+Pathaan II,2014,"Action, Adventure, Thriller",5.0,103935,6.756250000000001,Siddharth Anand,Bollywood,123,UA
+Shershaah Legacy,2005,"Action, Biography, Drama",8.8,121798,3.61,Vishnuvardhan,Bollywood,120,UA
+Uri: The Surgical Strike Returns,2021,"Action, Drama, History",7.3,83790,6.756250000000001,Aditya Dhar,Bollywood,140,UA
+Gully Boy Part 2,2025,"Drama, Musical",8.9,36979,3.61,Zoya Akhtar,Bollywood,144,UA
+Kabir Singh Returns,2023,"Drama, Romance",6.3,49365,3.61,Sandeep Reddy Vanga,Bollywood,150,A
+Yeh Jawaani Hai Deewani Chapter 3,2025,"Comedy, Drama, Romance",7.85,32705,5.84,Ayan Mukerji,Bollywood,146,UA
+Bhaag Milkha Bhaag Part 2,2015,"Biography, Drama, Sports",8.2,138857,1.28,Rakeysh Omprakash Mehra,Bollywood,204,UA
+Queen Part 2,2025,"Comedy, Drama",7.6,115532,1.93,Vikas Bahl,Bollywood,142,UA
+Jawan Reloaded,2020,"Action, Thriller",6.7,186552,3.61,Atlee,Bollywood,183,UA
+Shershaah Reloaded,2022,"Action, Biography, Drama",8.0,80613,0.0,Vishnuvardhan,Bollywood,140,UA
+Gangubai Kathiawadi Chapter 3,2016,"Biography, Crime, Drama",6.9,63176,6.756250000000001,Sanjay Leela Bhansali,Bollywood,138,UA
+Dangal Returns,2026,"Action, Biography, Drama",8.0,340328,6.756250000000001,Nitesh Tiwari,Bollywood,137,U
+Chak De! India Chapter 3,2006,"Drama, Family, Sports",7.2,136757,1.47,Shimit Amin,Bollywood,154,U
+Uri: The Surgical Strike Chapter 3,2016,"Action, Drama, History",8.1,39996,3.61,Aditya Dhar,Bollywood,132,UA
+Sanju Returns,2005,"Biography, Drama",7.6,64828,6.756250000000001,Rajkumar Hirani,Bollywood,140,UA
+Shershaah III,2020,"Action, Biography, Drama",7.6,231301,0.0,Vishnuvardhan,Bollywood,132,UA
+Uri: The Surgical Strike 3,2026,"Action, Drama, History",8.6,86124,3.61,Aditya Dhar,Bollywood,157,UA
+Haider Reloaded,2016,"Action, Drama, Thriller",7.2,44080,3.61,Vishal Bhardwaj,Bollywood,129,UA
+Queen Chapter 3,2022,"Comedy, Drama",8.3,42793,3.61,Vikas Bahl,Bollywood,158,UA
+Swades Chapter 2,2023,Drama,7.5,87798,3.61,Ashutosh Gowariker,Bollywood,202,U
+Bhaag Milkha Bhaag Legacy,2025,"Biography, Drama, Sports",8.7,48548,3.44,Rakeysh Omprakash Mehra,Bollywood,210,UA
+Pathaan Reloaded,2010,"Action, Adventure, Thriller",6.8,77114,6.756250000000001,Siddharth Anand,Bollywood,133,UA
+PK Legacy,2013,"Comedy, Drama, Sci-Fi",8.4,263003,3.61,Rajkumar Hirani,Bollywood,132,UA
+Dilwale Dulhania Le Jayenge Reloaded,2026,"Drama, Romance",8.7,96870,0.94,Aditya Chopra,Bollywood,154,U
+Stree III,2025,"Comedy, Horror",8.0,44995,2.96,Amar Kaushik,Bollywood,134,UA
+Pathaan Chapter 3,2012,"Action, Adventure, Thriller",5.5,56070,3.61,Siddharth Anand,Bollywood,141,UA
+Jawan Vengeance,2009,"Action, Thriller",7.7,107687,6.756250000000001,Atlee,Bollywood,161,UA
+Drishyam Legacy,2008,"Crime, Drama, Mystery",7.7,64959,0.48,Nishikant Kamat,Bollywood,133,UA
+Gangs of Wasseypur Vengeance,2018,"Action, Comedy, Crime",9.1,176079,1.41,Anurag Kashyap,Bollywood,239,A
+Bajrangi Bhaijaan Chapter 3,2021,"Action, Adventure, Comedy",8.1,91467,3.61,Kabir Khan,Bollywood,163,UA
+PK Vengeance,2016,"Comedy, Drama, Sci-Fi",7.2,229833,6.756250000000001,Rajkumar Hirani,Bollywood,151,UA
+Gangs of Wasseypur Returns,2018,"Action, Comedy, Crime",9.0,151169,0.64,Anurag Kashyap,Bollywood,239,A
+PK 3,2022,"Comedy, Drama, Sci-Fi",7.2,232430,6.756250000000001,Rajkumar Hirani,Bollywood,182,UA
+Sholay Reloaded,2008,"Action, Adventure, Comedy",7.8,118810,4.12,Ramesh Sippy,Bollywood,174,U
+Barfi! Legacy,2006,"Comedy, Drama, Romance",7.2,133482,4.77,Anurag Basu,Bollywood,129,UA
+Dilwale Dulhania Le Jayenge 3,2024,"Drama, Romance",7.3,142986,2.77,Aditya Chopra,Bollywood,176,U
+Andhadhun Chapter 3,2023,"Comedy, Crime, Music",8.1,46196,3.61,Sriram Raghavan,Bollywood,165,UA
+Chak De! India Part 2,2024,"Drama, Family, Sports",7.6,121637,2.05,Shimit Amin,Bollywood,133,U
+Gully Boy Reloaded,2021,"Drama, Musical",7.85,63885,3.61,Zoya Akhtar,Bollywood,129,UA
+Zindagi Na Milegi Dobara Reloaded,2018,"Comedy, Drama, Musical",8.0,132996,6.756250000000001,Zoya Akhtar,Bollywood,169,UA
+Dilwale Dulhania Le Jayenge Legacy,2011,"Drama, Romance",9.0,87664,6.756250000000001,Aditya Chopra,Bollywood,185,U
+Andhadhun 3,2026,"Comedy, Crime, Music",8.4,69378,3.61,Sriram Raghavan,Bollywood,127,UA
+Pathaan III,2011,"Action, Adventure, Thriller",5.5,94134,6.756250000000001,Siddharth Anand,Bollywood,132,UA
+Uri: The Surgical Strike Legacy,2017,"Action, Drama, History",8.8,125574,4.45,Aditya Dhar,Bollywood,126,UA
+Queen Chapter 3,2025,"Comedy, Drama",8.6,55826,1.44,Vikas Bahl,Bollywood,149,UA
+Sholay Vengeance,2023,"Action, Adventure, Comedy",7.6,90285,6.47,Ramesh Sippy,Bollywood,167,U
+Gangubai Kathiawadi Chapter 3,2008,"Biography, Crime, Drama",6.8,46393,4.76,Sanjay Leela Bhansali,Bollywood,178,UA
+Gully Boy II,2014,"Drama, Musical",7.5,24727,6.756250000000001,Zoya Akhtar,Bollywood,137,UA
+Gangs of Wasseypur Part 2,2010,"Action, Comedy, Crime",9.0,72549,1.5,Anurag Kashyap,Bollywood,239,A
+Haider III,2006,"Action, Drama, Thriller",7.6,77229,0.96,Vishal Bhardwaj,Bollywood,157,UA
+Drishyam Chapter 3,2009,"Crime, Drama, Mystery",7.7,162755,3.61,Nishikant Kamat,Bollywood,160,UA
+Bajrangi Bhaijaan Part 2,2015,"Action, Adventure, Comedy",8.2,155412,3.61,Kabir Khan,Bollywood,188,UA
+Drishyam 3,2007,"Crime, Drama, Mystery",7.85,73831,3.61,Nishikant Kamat,Bollywood,191,UA
+Sanju Chapter 3,2013,"Biography, Drama",7.2,95059,3.61,Rajkumar Hirani,Bollywood,146,UA
+Uri: The Surgical Strike Returns,2019,"Action, Drama, History",7.5,99392,6.756250000000001,Aditya Dhar,Bollywood,152,UA
+Kabir Singh III,2016,"Drama, Romance",6.4,33616,3.61,Sandeep Reddy Vanga,Bollywood,206,A
+Gangubai Kathiawadi Legacy,2020,"Biography, Crime, Drama",8.3,53217,6.756250000000001,Sanjay Leela Bhansali,Bollywood,153,UA
+Queen Returns,2023,"Comedy, Drama",7.2,89860,2.58,Vikas Bahl,Bollywood,125,UA
+Drishyam Chapter 3,2008,"Crime, Drama, Mystery",8.6,117157,1.05,Nishikant Kamat,Bollywood,134,UA
+Zindagi Na Milegi Dobara Chapter 3,2023,"Comedy, Drama, Musical",8.3,120732,3.61,Zoya Akhtar,Bollywood,148,UA
+My Name Is Khan II,2023,Drama,7.0,106763,3.61,Karan Johar,Bollywood,193,UA
+Haider Chapter 3,2006,"Action, Drama, Thriller",7.8,90940,2.35,Vishal Bhardwaj,Bollywood,169,UA
+Bhaag Milkha Bhaag Chapter 2,2019,"Biography, Drama, Sports",8.0,106686,2.28,Rakeysh Omprakash Mehra,Bollywood,197,UA
+Bajrangi Bhaijaan Legacy,2017,"Action, Adventure, Comedy",8.6,79233,3.61,Kabir Khan,Bollywood,194,UA
+My Name Is Khan Legacy,2018,Drama,8.5,91483,3.61,Karan Johar,Bollywood,144,UA
+Swades Returns,2006,Drama,8.4,171392,1.14,Ashutosh Gowariker,Bollywood,156,U
+Yeh Jawaani Hai Deewani Vengeance,2026,"Comedy, Drama, Romance",6.8,31149,6.68,Ayan Mukerji,Bollywood,176,UA
+Dilwale Dulhania Le Jayenge Legacy,2014,"Drama, Romance",8.6,115003,3.61,Aditya Chopra,Bollywood,209,U
+Sanju III,2009,"Biography, Drama",7.4,54763,6.756250000000001,Rajkumar Hirani,Bollywood,169,UA
+Uri: The Surgical Strike Chapter 2,2022,"Action, Drama, History",7.3,66080,5.45,Aditya Dhar,Bollywood,139,UA
+Zindagi Na Milegi Dobara Reloaded,2014,"Comedy, Drama, Musical",7.6,104551,3.61,Zoya Akhtar,Bollywood,142,UA
+Chak De! India Chapter 3,2006,"Drama, Family, Sports",9.0,109546,3.61,Shimit Amin,Bollywood,135,U
+Lagaan Chapter 3,2016,"Drama, Musical, Sports",8.2,209293,3.61,Ashutosh Gowariker,Bollywood,239,U
+Gangs of Wasseypur Returns,2011,"Action, Comedy, Crime",8.2,171400,3.61,Anurag Kashyap,Bollywood,239,A
+My Name Is Khan Returns,2020,Drama,8.3,163343,3.78,Karan Johar,Bollywood,153,UA
+Yeh Jawaani Hai Deewani Legacy,2025,"Comedy, Drama, Romance",6.9,57170,5.92,Ayan Mukerji,Bollywood,179,UA
+Swades 3,2011,Drama,7.8,51171,2.76,Ashutosh Gowariker,Bollywood,152,U
+Stree Vengeance,2018,"Comedy, Horror",6.8,39791,4.59,Amar Kaushik,Bollywood,127,UA
+Uri: The Surgical Strike 3,2013,"Action, Drama, History",9.1,95065,3.09,Aditya Dhar,Bollywood,154,UA
+My Name Is Khan Legacy,2020,Drama,8.7,137886,1.83,Karan Johar,Bollywood,134,UA
+Taare Zameen Par Part 2,2005,"Drama, Family",7.6,289210,3.61,Aamir Khan,Bollywood,132,U
+Queen Part 2,2024,"Comedy, Drama",8.4,35604,1.97,Vikas Bahl,Bollywood,117,UA
+Andhadhun III,2005,"Comedy, Crime, Music",8.8,164090,3.61,Sriram Raghavan,Bollywood,140,UA
+Shershaah Legacy,2013,"Action, Biography, Drama",7.9,142394,0.0,Vishnuvardhan,Bollywood,138,UA
+Sanju III,2026,"Biography, Drama",7.9,107239,4.36,Rajkumar Hirani,Bollywood,147,UA
+Dangal Part 2,2010,"Action, Biography, Drama",8.3,230172,6.756250000000001,Nitesh Tiwari,Bollywood,184,U
+Drishyam Part 2,2012,"Crime, Drama, Mystery",9.0,146150,0.72,Nishikant Kamat,Bollywood,190,UA
+War Legacy,2023,"Action, Thriller",5.9,56820,3.61,Siddharth Anand,Bollywood,159,UA
+Gangubai Kathiawadi Chapter 2,2007,"Biography, Crime, Drama",7.1,30124,4.59,Sanjay Leela Bhansali,Bollywood,176,UA
+Swades Reloaded,2007,Drama,7.3,104006,1.46,Ashutosh Gowariker,Bollywood,209,U
+Barfi! 3,2005,"Comedy, Drama, Romance",8.7,99945,3.61,Anurag Basu,Bollywood,177,UA
+Uri: The Surgical Strike Vengeance,2026,"Action, Drama, History",7.4,92815,6.756250000000001,Aditya Dhar,Bollywood,114,UA
+Gangubai Kathiawadi Reloaded,2017,"Biography, Crime, Drama",7.5,22304,5.1,Sanjay Leela Bhansali,Bollywood,167,UA
+Lagaan Reloaded,2018,"Drama, Musical, Sports",8.2,152239,3.61,Ashutosh Gowariker,Bollywood,210,U
+Shershaah 3,2017,"Action, Biography, Drama",8.0,140620,3.61,Vishnuvardhan,Bollywood,156,UA
+Stree Legacy,2010,"Comedy, Horror",6.8,36135,3.61,Amar Kaushik,Bollywood,105,UA
+Zindagi Na Milegi Dobara III,2020,"Comedy, Drama, Musical",7.9,153306,5.08,Zoya Akhtar,Bollywood,162,UA
+Dilwale Dulhania Le Jayenge III,2005,"Drama, Romance",7.7,102980,2.97,Aditya Chopra,Bollywood,176,U
+Gangs of Wasseypur Vengeance,2009,"Action, Comedy, Crime",7.8,182487,3.61,Anurag Kashyap,Bollywood,239,A
+Jawan III,2025,"Action, Thriller",7.9,184025,3.61,Atlee,Bollywood,189,UA
+Sholay Vengeance,2011,"Action, Adventure, Comedy",8.5,79508,4.95,Ramesh Sippy,Bollywood,221,U
+Pathaan Returns,2018,"Action, Adventure, Thriller",5.2,87790,3.61,Siddharth Anand,Bollywood,158,UA
+Lagaan Chapter 3,2024,"Drama, Musical, Sports",7.85,156186,2.38,Ashutosh Gowariker,Bollywood,216,U
+Gangubai Kathiawadi Legacy,2024,"Biography, Crime, Drama",7.0,30532,2.55,Sanjay Leela Bhansali,Bollywood,158,UA
+Kabir Singh Chapter 2,2015,"Drama, Romance",6.2,31099,3.61,Sandeep Reddy Vanga,Bollywood,174,A
+Stree II,2019,"Comedy, Horror",7.85,66340,2.97,Amar Kaushik,Bollywood,120,UA
+Pathaan Chapter 2,2007,"Action, Adventure, Thriller",6.6,146760,3.61,Siddharth Anand,Bollywood,143,UA
+Gully Boy 3,2020,"Drama, Musical",7.8,64896,3.61,Zoya Akhtar,Bollywood,125,UA
+3 Idiots 3,2025,"Comedy, Drama",8.8,313543,6.23,Rajkumar Hirani,Bollywood,147,UA
+Andhadhun Chapter 2,2019,"Comedy, Crime, Music",7.85,127128,3.61,Sriram Raghavan,Bollywood,135,UA
+Bhaag Milkha Bhaag II,2019,"Biography, Drama, Sports",8.0,108997,3.61,Rakeysh Omprakash Mehra,Bollywood,208,UA
+Sholay Legacy,2010,"Action, Adventure, Comedy",7.8,71179,3.61,Ramesh Sippy,Bollywood,206,U
+Shershaah Chapter 2,2024,"Action, Biography, Drama",8.6,132845,0.0,Vishnuvardhan,Bollywood,151,UA
+Pathaan Vengeance,2023,"Action, Adventure, Thriller",6.2,89219,3.61,Siddharth Anand,Bollywood,127,UA
+Drishyam Chapter 2,2018,"Crime, Drama, Mystery",8.3,107783,1.23,Nishikant Kamat,Bollywood,190,UA
+Bajrangi Bhaijaan Legacy,2010,"Action, Adventure, Comedy",7.7,74161,6.756250000000001,Kabir Khan,Bollywood,186,UA
+Gully Boy Reloaded,2011,"Drama, Musical",8.8,52842,6.756250000000001,Zoya Akhtar,Bollywood,148,UA
+Gully Boy Reloaded,2007,"Drama, Musical",8.5,34893,3.61,Zoya Akhtar,Bollywood,156,UA
+Yeh Jawaani Hai Deewani Vengeance,2020,"Comedy, Drama, Romance",7.4,49600,6.756250000000001,Ayan Mukerji,Bollywood,162,UA
+Swades Chapter 3,2022,Drama,9.2,58826,2.79,Ashutosh Gowariker,Bollywood,173,U
+Yeh Jawaani Hai Deewani III,2016,"Comedy, Drama, Romance",7.2,109501,3.57,Ayan Mukerji,Bollywood,179,UA
+Queen Vengeance,2025,"Comedy, Drama",7.4,48201,3.61,Vikas Bahl,Bollywood,163,UA
+Andhadhun III,2024,"Comedy, Crime, Music",7.8,136935,3.61,Sriram Raghavan,Bollywood,164,UA
+Bhaag Milkha Bhaag Returns,2009,"Biography, Drama, Sports",9.0,139211,0.84,Rakeysh Omprakash Mehra,Bollywood,213,UA
+Gangubai Kathiawadi 3,2012,"Biography, Crime, Drama",7.8,47814,3.61,Sanjay Leela Bhansali,Bollywood,144,UA
+Chak De! India Returns,2017,"Drama, Family, Sports",8.5,148910,1.78,Shimit Amin,Bollywood,154,U
+Gangs of Wasseypur Returns,2019,"Action, Comedy, Crime",8.9,160884,1.46,Anurag Kashyap,Bollywood,239,A
+Jawan III,2015,"Action, Thriller",7.85,135080,3.61,Atlee,Bollywood,185,UA
+Chak De! India Chapter 3,2005,"Drama, Family, Sports",9.0,60431,3.28,Shimit Amin,Bollywood,145,U
+Haider Reloaded,2025,"Action, Drama, Thriller",7.3,104449,3.61,Vishal Bhardwaj,Bollywood,151,UA
+Uri: The Surgical Strike Reloaded,2006,"Action, Drama, History",8.5,103283,5.98,Aditya Dhar,Bollywood,115,UA
+PK Chapter 3,2007,"Comedy, Drama, Sci-Fi",8.3,236645,3.41,Rajkumar Hirani,Bollywood,143,UA
+Gangs of Wasseypur Chapter 2,2009,"Action, Comedy, Crime",7.3,102087,0.29,Anurag Kashyap,Bollywood,239,A
+Dilwale Dulhania Le Jayenge Chapter 2,2009,"Drama, Romance",7.1,96835,1.86,Aditya Chopra,Bollywood,177,U
+My Name Is Khan Reloaded,2018,Drama,8.6,66153,3.61,Karan Johar,Bollywood,170,UA
+Zindagi Na Milegi Dobara 3,2009,"Comedy, Drama, Musical",7.8,50109,5.95,Zoya Akhtar,Bollywood,161,UA
+Gangubai Kathiawadi Part 2,2026,"Biography, Crime, Drama",7.2,49363,3.61,Sanjay Leela Bhansali,Bollywood,139,UA
+Bhaag Milkha Bhaag II,2020,"Biography, Drama, Sports",7.4,87456,2.24,Rakeysh Omprakash Mehra,Bollywood,221,UA
+Haider 3,2009,"Action, Drama, Thriller",8.7,74391,1.72,Vishal Bhardwaj,Bollywood,176,UA
+Dookudu,2007,"Action, Comedy",7.6,6768,2.78,Srinu Vaitla,Tollywood,200,UA
+Magadheera,2025,"Action, Drama, Fantasy",7.5,27585,3.85,S.S. Rajamouli,Tollywood,142,UA
+RRR,2021,"Action, Drama, Sci-Fi",8.7,117290,2.78,S.S. Rajamouli,Tollywood,197,UA
+Pokiri,2025,"Action, Crime, Thriller",7.6,21968,0.76,Puri Jagannadh,Tollywood,146,UA
+Pushpa: The Rise,2019,"Action, Crime, Drama",7.2,80627,1.99,Sukumar,Tollywood,193,UA
+Arjun Reddy,2020,"Drama, Romance",8.0,58606,1.13,Sandeep Reddy Vanga,Tollywood,154,A
+Eega,2008,"Action, Comedy, Fantasy",7.4,34319,1.11,S.S. Rajamouli,Tollywood,172,UA
+Hanu-Man,2019,"Action, Adventure, Fantasy",7.1,39358,2.78,Prasanth Varma,Tollywood,142,UA
+Salaar: Part 1 - Ceasefire,2026,"Action, Drama, Thriller",6.0,75794,2.78,Prashanth Neel,Tollywood,157,A
+Geetha Govindam,2009,"Comedy, Drama, Romance",8.6,32152,3.32,Parasuram,Tollywood,155,UA
+Rangasthalam,2012,"Action, Drama",9.2,27437,3.32,Sukumar,Tollywood,151,UA
+Baahubali 2: The Conclusion,2010,"Action, Drama, Fantasy",8.8,207072,6.756250000000001,S.S. Rajamouli,Tollywood,164,UA
+Janatha Garage,2014,"Action, Drama",6.4,13036,2.78,Koratala Siva,Tollywood,166,UA
+Kalki 2898 AD,2012,"Action, Sci-Fi",7.2,146833,6.756250000000001,Nag Ashwin,Tollywood,197,UA
+Gabbar Singh,2012,"Action, Comedy",6.1,10035,2.78,Harish Shankar,Tollywood,161,UA
+Baahubali: The Beginning,2015,"Action, Drama, Fantasy",8.5,133051,6.756250000000001,S.S. Rajamouli,Tollywood,140,UA
+Sarileru Neekevvaru,2020,"Action, Comedy, Drama",7.1,9989,2.78,Anil Ravipudi,Tollywood,197,UA
+Sita Ramam,2018,"Drama, Mystery, Romance",8.5,97310,6.33,Hanu Raghavapudi,Tollywood,171,U
+Salaar: Part 1 - Ceasefire,2023,"Action, Drama, Thriller",6.4,116779,2.78,Prashanth Neel,Tollywood,199,A
+Geetha Govindam,2015,"Comedy, Drama, Romance",7.6,15307,0.8,Parasuram,Tollywood,157,UA
+Pushpa: The Rise,2010,"Action, Crime, Drama",7.5,55488,6.756250000000001,Sukumar,Tollywood,158,UA
+Eega,2008,"Action, Comedy, Fantasy",7.0,45872,2.4,S.S. Rajamouli,Tollywood,118,UA
+Rangasthalam,2009,"Action, Drama",8.8,54672,2.78,Sukumar,Tollywood,191,UA
+Arjun Reddy,2005,"Drama, Romance",8.7,46687,0.83,Sandeep Reddy Vanga,Tollywood,153,A
+Pushpa: The Rise,2005,"Action, Crime, Drama",8.3,98692,2.78,Sukumar,Tollywood,169,UA
+Athadu,2007,"Action, Comedy, Crime",9.0,11024,0.42,Trivikram Srinivas,Tollywood,185,UA
+RRR,2015,"Action, Drama, Sci-Fi",6.9,190638,2.78,S.S. Rajamouli,Tollywood,182,UA
+Hanu-Man,2005,"Action, Adventure, Fantasy",8.4,16702,2.78,Prasanth Varma,Tollywood,143,UA
+Ala Vaikunthapurramuloo,2006,"Action, Comedy, Drama",7.6,31208,3.35,Trivikram Srinivas,Tollywood,136,UA
+Sarileru Neekevvaru,2011,"Action, Comedy, Drama",6.5,23845,5.05,Anil Ravipudi,Tollywood,188,UA
+Dasara Chapter 3,2016,"Action, Drama",6.5,6542,2.78,Srikanth Odela,Tollywood,126,UA
+Eega Part 2,2020,"Action, Comedy, Fantasy",8.2,59982,0.63,S.S. Rajamouli,Tollywood,154,UA
+Attarintiki Daredi Part 2,2012,"Action, Comedy, Drama",7.0,24623,1.24,Trivikram Srinivas,Tollywood,176,UA
+Bommarillu 3,2023,"Comedy, Drama, Romance",8.6,11302,0.27,Bhaskar,Tollywood,200,U
+Gabbar Singh Chapter 3,2022,"Action, Comedy",6.5,5012,2.78,Harish Shankar,Tollywood,135,UA
+Baahubali: The Beginning 3,2024,"Action, Drama, Fantasy",8.6,126392,2.78,S.S. Rajamouli,Tollywood,130,UA
+Bommarillu Reloaded,2008,"Comedy, Drama, Romance",9.1,11664,0.55,Bhaskar,Tollywood,142,U
+Ala Vaikunthapurramuloo Reloaded,2018,"Action, Comedy, Drama",7.6,19032,4.56,Trivikram Srinivas,Tollywood,190,UA
+Jersey Vengeance,2010,"Drama, Sports",8.2,36785,2.78,Gowtam Tinnanuri,Tollywood,128,U
+Salaar: Part 1 - Ceasefire Chapter 2,2023,"Action, Drama, Thriller",5.9,58639,6.756250000000001,Prashanth Neel,Tollywood,184,A
+Hanu-Man Reloaded,2015,"Action, Adventure, Fantasy",7.5,43418,2.78,Prasanth Varma,Tollywood,178,UA
+Chatrapathi 3,2019,"Action, Drama",7.2,12240,2.78,S.S. Rajamouli,Tollywood,187,UA
+Baahubali 2: The Conclusion Chapter 2,2019,"Action, Drama, Fantasy",9.1,191816,6.756250000000001,S.S. Rajamouli,Tollywood,170,UA
+Hanu-Man Vengeance,2025,"Action, Adventure, Fantasy",7.3,13432,5.92,Prasanth Varma,Tollywood,146,UA
+RRR 3,2010,"Action, Drama, Sci-Fi",7.1,98000,6.756250000000001,S.S. Rajamouli,Tollywood,174,UA
+Fidaa Chapter 3,2005,"Comedy, Drama, Romance",8.4,5979,0.51,Sekhar Kammula,Tollywood,120,U
+Mahanati Chapter 2,2022,"Biography, Drama",8.8,20814,2.78,Nag Ashwin,Tollywood,182,U
+Ala Vaikunthapurramuloo Part 2,2016,"Action, Comedy, Drama",7.7,23545,4.03,Trivikram Srinivas,Tollywood,143,UA
+Athadu III,2007,"Action, Comedy, Crime",8.9,17325,2.78,Trivikram Srinivas,Tollywood,202,UA
+Athadu Legacy,2017,"Action, Comedy, Crime",7.9,19299,2.78,Trivikram Srinivas,Tollywood,158,UA
+Jersey III,2023,"Drama, Sports",7.9,37072,2.78,Gowtam Tinnanuri,Tollywood,150,U
+Dookudu Vengeance,2012,"Action, Comedy",8.1,22458,2.78,Srinu Vaitla,Tollywood,182,UA
+Salaar: Part 1 - Ceasefire II,2020,"Action, Drama, Thriller",5.7,111249,6.756250000000001,Prashanth Neel,Tollywood,203,A
+Pokiri Vengeance,2009,"Action, Crime, Thriller",8.9,22297,0.6,Puri Jagannadh,Tollywood,144,UA
+Baahubali 2: The Conclusion Chapter 2,2007,"Action, Drama, Fantasy",7.6,182053,2.78,S.S. Rajamouli,Tollywood,150,UA
+Indra Returns,2007,"Action, Drama",7.7,7968,1.36,B. Gopal,Tollywood,200,U
+Kalki 2898 AD Vengeance,2021,"Action, Sci-Fi",6.7,54334,6.756250000000001,Nag Ashwin,Tollywood,214,UA
+Pushpa: The Rise Vengeance,2008,"Action, Crime, Drama",8.3,91010,6.756250000000001,Sukumar,Tollywood,190,UA
+Hanu-Man Part 2,2010,"Action, Adventure, Fantasy",7.8,31402,6.756250000000001,Prasanth Varma,Tollywood,151,UA
+Bommarillu II,2006,"Comedy, Drama, Romance",9.0,20301,2.78,Bhaskar,Tollywood,157,U
+Janatha Garage Returns,2012,"Action, Drama",6.8,17771,1.52,Koratala Siva,Tollywood,176,UA
+RRR II,2019,"Action, Drama, Sci-Fi",8.6,177720,6.756250000000001,S.S. Rajamouli,Tollywood,177,UA
+Gabbar Singh Reloaded,2007,"Action, Comedy",7.5,9945,2.4,Harish Shankar,Tollywood,157,UA
+Fidaa II,2006,"Comedy, Drama, Romance",6.6,4606,2.78,Sekhar Kammula,Tollywood,130,U
+Sita Ramam Chapter 2,2025,"Drama, Mystery, Romance",9.0,51774,5.72,Hanu Raghavapudi,Tollywood,193,U
+Dasara 3,2016,"Action, Drama",7.7,7547,0.44,Srikanth Odela,Tollywood,126,UA
+Dookudu II,2012,"Action, Comedy",7.8,11747,2.78,Srinu Vaitla,Tollywood,194,UA
+Pokiri Part 2,2020,"Action, Crime, Thriller",8.3,26632,2.78,Puri Jagannadh,Tollywood,170,UA
+Bommarillu III,2018,"Comedy, Drama, Romance",8.9,13073,2.78,Bhaskar,Tollywood,182,U
+Geetha Govindam Vengeance,2008,"Comedy, Drama, Romance",7.7,26883,1.57,Parasuram,Tollywood,150,UA
+Magadheera Returns,2020,"Action, Drama, Fantasy",7.4,22868,2.78,S.S. Rajamouli,Tollywood,150,UA
+Fidaa III,2011,"Comedy, Drama, Romance",7.5,6883,2.78,Sekhar Kammula,Tollywood,137,U
+Ala Vaikunthapurramuloo Part 2,2025,"Action, Comedy, Drama",8.3,22228,2.78,Trivikram Srinivas,Tollywood,178,UA
+Salaar: Part 1 - Ceasefire II,2015,"Action, Drama, Thriller",6.9,87448,6.756250000000001,Prashanth Neel,Tollywood,165,A
+Arjun Reddy Legacy,2010,"Drama, Romance",7.2,24217,2.78,Sandeep Reddy Vanga,Tollywood,201,A
+Pokiri 3,2025,"Action, Crime, Thriller",7.4,15864,1.15,Puri Jagannadh,Tollywood,188,UA
+Salaar: Part 1 - Ceasefire III,2019,"Action, Drama, Thriller",6.4,107975,6.756250000000001,Prashanth Neel,Tollywood,144,A
+Sita Ramam Returns,2026,"Drama, Mystery, Romance",8.7,67179,2.69,Hanu Raghavapudi,Tollywood,195,U
+Salaar: Part 1 - Ceasefire Chapter 3,2009,"Action, Drama, Thriller",7.2,46232,2.78,Prashanth Neel,Tollywood,184,A
+Athadu Part 2,2005,"Action, Comedy, Crime",7.7,29552,2.78,Trivikram Srinivas,Tollywood,174,UA
+RRR Reloaded,2024,"Action, Drama, Sci-Fi",8.1,176814,6.756250000000001,S.S. Rajamouli,Tollywood,152,UA
+Srimanthudu Part 2,2015,"Action, Drama",6.5,6074,0.82,Koratala Siva,Tollywood,187,U
+Pushpa: The Rise Chapter 2,2021,"Action, Crime, Drama",6.9,86788,2.78,Sukumar,Tollywood,175,UA
+Sita Ramam 3,2018,"Drama, Mystery, Romance",8.3,111124,2.78,Hanu Raghavapudi,Tollywood,141,U
+Gabbar Singh Chapter 2,2005,"Action, Comedy",6.5,17795,2.78,Harish Shankar,Tollywood,158,UA
+Srimanthudu Part 2,2017,"Action, Drama",8.0,17216,0.39,Koratala Siva,Tollywood,137,U
+Baahubali 2: The Conclusion Returns,2018,"Action, Drama, Fantasy",8.0,138696,6.756250000000001,S.S. Rajamouli,Tollywood,180,UA
+Magadheera Chapter 2,2026,"Action, Drama, Fantasy",8.0,22624,1.47,S.S. Rajamouli,Tollywood,187,UA
+Chatrapathi Vengeance,2008,"Action, Drama",6.9,9231,2.78,S.S. Rajamouli,Tollywood,186,UA
+Mahanati 3,2018,"Biography, Drama",7.8,29088,1.73,Nag Ashwin,Tollywood,175,U
+Baahubali: The Beginning Returns,2008,"Action, Drama, Fantasy",7.3,79390,6.756250000000001,S.S. Rajamouli,Tollywood,133,UA
+Jersey Chapter 3,2014,"Drama, Sports",8.5,15593,2.78,Gowtam Tinnanuri,Tollywood,182,U
+Pokiri 3,2018,"Action, Crime, Thriller",7.2,31108,2.78,Puri Jagannadh,Tollywood,173,UA
+Srimanthudu Chapter 3,2024,"Action, Drama",8.3,7673,0.71,Koratala Siva,Tollywood,156,U
+Eega Chapter 2,2020,"Action, Comedy, Fantasy",8.0,50860,2.78,S.S. Rajamouli,Tollywood,158,UA
+Janatha Garage Reloaded,2008,"Action, Drama",8.0,13464,1.93,Koratala Siva,Tollywood,169,UA
+Kalki 2898 AD Part 2,2026,"Action, Sci-Fi",7.5,92413,6.756250000000001,Nag Ashwin,Tollywood,149,UA
+Baahubali: The Beginning Legacy,2023,"Action, Drama, Fantasy",9.0,188095,2.78,S.S. Rajamouli,Tollywood,170,UA
+Sarileru Neekevvaru II,2020,"Action, Comedy, Drama",6.5,20469,2.78,Anil Ravipudi,Tollywood,195,UA
+Baahubali: The Beginning Reloaded,2021,"Action, Drama, Fantasy",8.7,225515,2.78,S.S. Rajamouli,Tollywood,147,UA
+Eega Part 2,2021,"Action, Comedy, Fantasy",7.8,32038,0.56,S.S. Rajamouli,Tollywood,141,UA
+RRR Chapter 3,2019,"Action, Drama, Sci-Fi",7.0,199369,6.756250000000001,S.S. Rajamouli,Tollywood,180,UA
+Baahubali: The Beginning Returns,2024,"Action, Drama, Fantasy",8.8,167937,6.756250000000001,S.S. Rajamouli,Tollywood,148,UA
+Attarintiki Daredi II,2019,"Action, Comedy, Drama",7.4,20014,3.32,Trivikram Srinivas,Tollywood,184,UA
+Dookudu II,2005,"Action, Comedy",7.1,18856,2.13,Srinu Vaitla,Tollywood,161,UA
+Fidaa Reloaded,2020,"Comedy, Drama, Romance",8.1,12910,2.78,Sekhar Kammula,Tollywood,149,U
+Indra Chapter 2,2011,"Action, Drama",8.0,4715,2.78,B. Gopal,Tollywood,140,U
+Pokiri Vengeance,2008,"Action, Crime, Thriller",7.9,26295,2.32,Puri Jagannadh,Tollywood,130,UA
+Dasara Chapter 2,2023,"Action, Drama",7.5,14208,1.73,Srikanth Odela,Tollywood,135,UA
+Pushpa: The Rise Chapter 2,2026,"Action, Crime, Drama",7.6,53849,6.756250000000001,Sukumar,Tollywood,197,UA
+Rangasthalam III,2019,"Action, Drama",7.7,39306,3.03,Sukumar,Tollywood,203,UA
+Rangasthalam Legacy,2025,"Action, Drama",7.8,40215,2.78,Sukumar,Tollywood,209,UA
+Bommarillu Reloaded,2021,"Comedy, Drama, Romance",8.6,18052,0.75,Bhaskar,Tollywood,200,U
+Pokiri Legacy,2014,"Action, Crime, Thriller",8.6,24397,2.78,Puri Jagannadh,Tollywood,133,UA
+Eega Reloaded,2014,"Action, Comedy, Fantasy",7.0,17791,0.94,S.S. Rajamouli,Tollywood,147,UA
+Karthikeya 2 Returns,2024,"Action, Adventure, Mystery",8.4,20128,2.78,Chandoo Mondeti,Tollywood,137,UA
+Indra Chapter 2,2017,"Action, Drama",8.3,11782,2.78,B. Gopal,Tollywood,141,U
+Mahanati Vengeance,2019,"Biography, Drama",9.3,34252,1.87,Nag Ashwin,Tollywood,180,U
+Dookudu II,2014,"Action, Comedy",6.8,19811,2.78,Srinu Vaitla,Tollywood,185,UA
+Baahubali 2: The Conclusion Chapter 2,2013,"Action, Drama, Fantasy",7.5,144477,2.78,S.S. Rajamouli,Tollywood,164,UA
+Baahubali 2: The Conclusion Reloaded,2015,"Action, Drama, Fantasy",8.7,150995,6.756250000000001,S.S. Rajamouli,Tollywood,186,UA
+RRR 3,2021,"Action, Drama, Sci-Fi",8.7,204945,6.756250000000001,S.S. Rajamouli,Tollywood,190,UA
+Srimanthudu II,2011,"Action, Drama",7.2,11284,1.77,Koratala Siva,Tollywood,161,U
+Dookudu Part 2,2008,"Action, Comedy",7.3,24137,2.37,Srinu Vaitla,Tollywood,201,UA
+Rangasthalam Chapter 2,2008,"Action, Drama",7.9,44406,2.78,Sukumar,Tollywood,202,UA
+Gabbar Singh Legacy,2019,"Action, Comedy",6.2,16626,2.78,Harish Shankar,Tollywood,127,UA
+Dookudu Legacy,2022,"Action, Comedy",7.7,10610,1.05,Srinu Vaitla,Tollywood,182,UA
+Mahanati Legacy,2018,"Biography, Drama",9.0,16073,0.96,Nag Ashwin,Tollywood,147,U
+Gabbar Singh III,2022,"Action, Comedy",7.2,7573,2.78,Harish Shankar,Tollywood,150,UA
+Rangasthalam Part 2,2017,"Action, Drama",8.5,40939,4.21,Sukumar,Tollywood,185,UA
+RRR 3,2021,"Action, Drama, Sci-Fi",7.4,244610,6.756250000000001,S.S. Rajamouli,Tollywood,218,UA
+Attarintiki Daredi Part 2,2020,"Action, Comedy, Drama",7.4,9864,2.78,Trivikram Srinivas,Tollywood,156,UA
+Magadheera 3,2005,"Action, Drama, Fantasy",6.9,12688,3.85,S.S. Rajamouli,Tollywood,195,UA
+Chatrapathi 3,2011,"Action, Drama",8.5,24880,2.78,S.S. Rajamouli,Tollywood,149,UA
+Mahanati Returns,2010,"Biography, Drama",9.2,41768,1.24,Nag Ashwin,Tollywood,180,U
+RRR III,2008,"Action, Drama, Sci-Fi",8.3,196925,2.78,S.S. Rajamouli,Tollywood,199,UA
+Magadheera Vengeance,2007,"Action, Drama, Fantasy",7.3,29399,2.48,S.S. Rajamouli,Tollywood,171,UA
+Srimanthudu 3,2018,"Action, Drama",6.5,10431,2.78,Koratala Siva,Tollywood,172,U
+Srimanthudu Reloaded,2026,"Action, Drama",8.3,14331,2.78,Koratala Siva,Tollywood,162,U
+Athadu Vengeance,2007,"Action, Comedy, Crime",8.9,12780,0.51,Trivikram Srinivas,Tollywood,202,UA
+RRR Part 2,2021,"Action, Drama, Sci-Fi",8.4,218936,6.756250000000001,S.S. Rajamouli,Tollywood,152,UA
+Fidaa Legacy,2020,"Comedy, Drama, Romance",7.2,6679,1.6,Sekhar Kammula,Tollywood,131,U
+Sita Ramam Returns,2017,"Drama, Mystery, Romance",8.6,89641,6.756250000000001,Hanu Raghavapudi,Tollywood,170,U
+Sita Ramam Reloaded,2019,"Drama, Mystery, Romance",8.0,115384,6.756250000000001,Hanu Raghavapudi,Tollywood,178,U
+Srimanthudu Part 2,2012,"Action, Drama",7.0,10758,2.78,Koratala Siva,Tollywood,143,U
+Srimanthudu Chapter 2,2020,"Action, Drama",8.3,6718,0.52,Koratala Siva,Tollywood,193,U
+Eega III,2023,"Action, Comedy, Fantasy",7.5,32033,3.0,S.S. Rajamouli,Tollywood,120,UA
+Indra II,2021,"Action, Drama",7.1,10809,1.28,B. Gopal,Tollywood,179,U
+Ala Vaikunthapurramuloo Chapter 3,2010,"Action, Comedy, Drama",6.5,36630,2.78,Trivikram Srinivas,Tollywood,140,UA
+Attarintiki Daredi Returns,2026,"Action, Comedy, Drama",7.1,13934,2.78,Trivikram Srinivas,Tollywood,168,UA
+Arjun Reddy Chapter 2,2005,"Drama, Romance",7.1,47608,2.78,Sandeep Reddy Vanga,Tollywood,182,A
+Ala Vaikunthapurramuloo Part 2,2010,"Action, Comedy, Drama",8.1,31874,2.78,Trivikram Srinivas,Tollywood,171,UA
+Chatrapathi III,2007,"Action, Drama",7.6,27848,0.46,S.S. Rajamouli,Tollywood,190,UA
+Gabbar Singh Vengeance,2010,"Action, Comedy",6.4,13755,2.67,Harish Shankar,Tollywood,126,UA
+Ala Vaikunthapurramuloo Returns,2005,"Action, Comedy, Drama",7.3,46600,5.32,Trivikram Srinivas,Tollywood,169,UA
+Fidaa Vengeance,2024,"Comedy, Drama, Romance",8.3,10377,0.39,Sekhar Kammula,Tollywood,152,U
+Dasara Part 2,2026,"Action, Drama",6.7,8972,2.78,Srikanth Odela,Tollywood,151,UA
+Hanu-Man Chapter 2,2016,"Action, Adventure, Fantasy",7.9,19399,6.756250000000001,Prasanth Varma,Tollywood,131,UA
+Dasara Chapter 2,2013,"Action, Drama",7.7,13731,2.78,Srikanth Odela,Tollywood,132,UA
+Mahanati 3,2018,"Biography, Drama",7.7,25060,0.8,Nag Ashwin,Tollywood,179,U
+Kalki 2898 AD III,2026,"Action, Sci-Fi",8.0,83988,6.756250000000001,Nag Ashwin,Tollywood,171,UA
+Eega III,2023,"Action, Comedy, Fantasy",8.2,32915,2.78,S.S. Rajamouli,Tollywood,122,UA
+Gabbar Singh Reloaded,2008,"Action, Comedy",7.1,15112,2.74,Harish Shankar,Tollywood,164,UA
+Geetha Govindam Part 2,2007,"Comedy, Drama, Romance",7.6,25206,2.78,Parasuram,Tollywood,126,UA
+Baahubali 2: The Conclusion Chapter 2,2017,"Action, Drama, Fantasy",8.6,146601,6.756250000000001,S.S. Rajamouli,Tollywood,176,UA
+Mahanati Legacy,2014,"Biography, Drama",7.7,30783,0.74,Nag Ashwin,Tollywood,153,U
+Athadu Part 2,2010,"Action, Comedy, Crime",9.2,30051,2.78,Trivikram Srinivas,Tollywood,168,UA
+Baahubali: The Beginning Returns,2007,"Action, Drama, Fantasy",8.5,167333,6.756250000000001,S.S. Rajamouli,Tollywood,179,UA
+Mahanati Chapter 3,2017,"Biography, Drama",8.0,24435,2.78,Nag Ashwin,Tollywood,177,U
+Pushpa: The Rise Legacy,2013,"Action, Crime, Drama",8.0,97454,6.756250000000001,Sukumar,Tollywood,197,UA
+Karthikeya 2 Chapter 3,2023,"Action, Adventure, Mystery",7.9,13300,2.78,Chandoo Mondeti,Tollywood,160,UA
+Rangasthalam Chapter 2,2016,"Action, Drama",8.8,25060,2.78,Sukumar,Tollywood,191,UA
+RRR Legacy,2010,"Action, Drama, Sci-Fi",7.4,132455,6.756250000000001,S.S. Rajamouli,Tollywood,205,UA
+Mahanati Chapter 3,2011,"Biography, Drama",9.0,39800,2.78,Nag Ashwin,Tollywood,200,U
+Srimanthudu Reloaded,2008,"Action, Drama",8.3,18164,1.76,Koratala Siva,Tollywood,180,U
+Baahubali 2: The Conclusion Chapter 3,2016,"Action, Drama, Fantasy",8.2,207694,6.756250000000001,S.S. Rajamouli,Tollywood,166,UA
+Indra Legacy,2013,"Action, Drama",6.8,8189,2.78,B. Gopal,Tollywood,170,U
+Sita Ramam 3,2017,"Drama, Mystery, Romance",8.5,40833,4.38,Hanu Raghavapudi,Tollywood,130,U
+Geetha Govindam Vengeance,2008,"Comedy, Drama, Romance",7.4,32269,2.78,Parasuram,Tollywood,127,UA
+Kalki 2898 AD 3,2016,"Action, Sci-Fi",7.5,61184,6.756250000000001,Nag Ashwin,Tollywood,206,UA
+Arjun Reddy Vengeance,2009,"Drama, Romance",8.6,55342,2.7,Sandeep Reddy Vanga,Tollywood,207,A
+Gabbar Singh Reloaded,2020,"Action, Comedy",6.5,11244,3.63,Harish Shankar,Tollywood,154,UA
+Gabbar Singh Chapter 3,2014,"Action, Comedy",7.2,12165,2.78,Harish Shankar,Tollywood,132,UA
+Eega Chapter 3,2025,"Action, Comedy, Fantasy",7.6,30059,2.78,S.S. Rajamouli,Tollywood,148,UA
+Srimanthudu Part 2,2018,"Action, Drama",7.2,18232,1.67,Koratala Siva,Tollywood,172,U
+Dookudu III,2016,"Action, Comedy",7.7,16006,3.24,Srinu Vaitla,Tollywood,161,UA
+Athadu Reloaded,2010,"Action, Comedy, Crime",8.0,25532,2.78,Trivikram Srinivas,Tollywood,145,UA
+Rangasthalam 3,2025,"Action, Drama",8.8,39426,2.78,Sukumar,Tollywood,199,UA
+Chatrapathi Vengeance,2021,"Action, Drama",7.5,10861,2.78,S.S. Rajamouli,Tollywood,150,UA
+Chatrapathi Returns,2011,"Action, Drama",7.5,9006,0.95,S.S. Rajamouli,Tollywood,138,UA
+Sita Ramam Returns,2008,"Drama, Mystery, Romance",8.8,37588,5.14,Hanu Raghavapudi,Tollywood,145,U
+Karthikeya 2 Reloaded,2009,"Action, Adventure, Mystery",7.0,22429,3.06,Chandoo Mondeti,Tollywood,148,UA
+Dasara III,2022,"Action, Drama",6.0,16343,1.52,Srikanth Odela,Tollywood,153,UA
+Fidaa Vengeance,2018,"Comedy, Drama, Romance",8.3,9779,2.78,Sekhar Kammula,Tollywood,139,U
+Eega Reloaded,2014,"Action, Comedy, Fantasy",7.7,51692,1.35,S.S. Rajamouli,Tollywood,143,UA
+Dookudu Chapter 3,2014,"Action, Comedy",7.9,22060,2.94,Srinu Vaitla,Tollywood,173,UA
+Fidaa Legacy,2018,"Comedy, Drama, Romance",7.0,12579,1.78,Sekhar Kammula,Tollywood,127,U
+Athadu II,2021,"Action, Comedy, Crime",7.8,29059,0.71,Trivikram Srinivas,Tollywood,199,UA
+Magadheera Returns,2025,"Action, Drama, Fantasy",7.7,22705,1.78,S.S. Rajamouli,Tollywood,134,UA
+Baahubali: The Beginning Reloaded,2008,"Action, Drama, Fantasy",7.5,196599,6.31,S.S. Rajamouli,Tollywood,136,UA
+Rangasthalam Chapter 2,2014,"Action, Drama",9.4,33474,2.15,Sukumar,Tollywood,203,UA
+Baahubali 2: The Conclusion III,2017,"Action, Drama, Fantasy",7.7,81102,6.756250000000001,S.S. Rajamouli,Tollywood,159,UA
+Jersey Chapter 2,2019,"Drama, Sports",9.1,13206,1.19,Gowtam Tinnanuri,Tollywood,161,U
+Hanu-Man Chapter 2,2026,"Action, Adventure, Fantasy",8.9,16234,6.756250000000001,Prasanth Varma,Tollywood,161,UA
+Hanu-Man III,2011,"Action, Adventure, Fantasy",8.8,39500,2.78,Prasanth Varma,Tollywood,141,UA
+Baahubali: The Beginning Reloaded,2013,"Action, Drama, Fantasy",7.8,108079,6.756250000000001,S.S. Rajamouli,Tollywood,171,UA
+Ala Vaikunthapurramuloo 3,2007,"Action, Comedy, Drama",6.6,15927,5.91,Trivikram Srinivas,Tollywood,195,UA
+Baahubali 2: The Conclusion 3,2025,"Action, Drama, Fantasy",8.6,177155,2.78,S.S. Rajamouli,Tollywood,154,UA
+Athadu 3,2019,"Action, Comedy, Crime",7.2,19199,0.49,Trivikram Srinivas,Tollywood,142,UA
+Dasara III,2022,"Action, Drama",6.1,6629,2.78,Srikanth Odela,Tollywood,154,UA
+Kalki 2898 AD Legacy,2010,"Action, Sci-Fi",7.6,88055,6.756250000000001,Nag Ashwin,Tollywood,177,UA
+Sita Ramam Chapter 2,2010,"Drama, Mystery, Romance",8.8,62766,4.43,Hanu Raghavapudi,Tollywood,134,U
+Attarintiki Daredi Chapter 2,2011,"Action, Comedy, Drama",7.8,10236,2.78,Trivikram Srinivas,Tollywood,179,UA
+Sita Ramam Returns,2006,"Drama, Mystery, Romance",8.0,32814,2.78,Hanu Raghavapudi,Tollywood,136,U
+Attarintiki Daredi Chapter 2,2026,"Action, Comedy, Drama",7.4,21727,2.78,Trivikram Srinivas,Tollywood,151,UA
+Baahubali: The Beginning II,2025,"Action, Drama, Fantasy",8.9,218514,6.756250000000001,S.S. Rajamouli,Tollywood,150,UA
+Fidaa Chapter 2,2016,"Comedy, Drama, Romance",8.1,7189,2.78,Sekhar Kammula,Tollywood,162,U
+Mahanati Legacy,2008,"Biography, Drama",9.0,28544,2.78,Nag Ashwin,Tollywood,188,U
+Arjun Reddy Legacy,2022,"Drama, Romance",8.5,57729,3.18,Sandeep Reddy Vanga,Tollywood,196,A
+Pushpa: The Rise Reloaded,2010,"Action, Crime, Drama",7.6,74314,6.14,Sukumar,Tollywood,210,UA
+Dasara 3,2016,"Action, Drama",7.2,9739,1.55,Srikanth Odela,Tollywood,159,UA
+Dookudu Legacy,2013,"Action, Comedy",8.3,15226,2.78,Srinu Vaitla,Tollywood,138,UA
+Baahubali: The Beginning Legacy,2009,"Action, Drama, Fantasy",7.0,247073,2.78,S.S. Rajamouli,Tollywood,128,UA
+Bommarillu III,2022,"Comedy, Drama, Romance",7.4,13096,2.78,Bhaskar,Tollywood,160,U
+Jersey III,2014,"Drama, Sports",8.7,32486,2.78,Gowtam Tinnanuri,Tollywood,174,U
+Arjun Reddy Chapter 3,2023,"Drama, Romance",8.2,33270,2.78,Sandeep Reddy Vanga,Tollywood,151,A
+Dookudu 3,2016,"Action, Comedy",7.2,23422,1.09,Srinu Vaitla,Tollywood,180,UA
+Baahubali: The Beginning Chapter 2,2006,"Action, Drama, Fantasy",8.0,122371,6.756250000000001,S.S. Rajamouli,Tollywood,171,UA
+Pokiri Chapter 2,2019,"Action, Crime, Thriller",7.4,17758,2.78,Puri Jagannadh,Tollywood,152,UA
+Chatrapathi Part 2,2022,"Action, Drama",7.2,15369,2.78,S.S. Rajamouli,Tollywood,143,UA
+Dasara II,2020,"Action, Drama",7.0,6750,1.83,Srikanth Odela,Tollywood,140,UA
+Dookudu Chapter 2,2015,"Action, Comedy",6.6,14564,2.78,Srinu Vaitla,Tollywood,157,UA
+Baahubali: The Beginning III,2010,"Action, Drama, Fantasy",8.2,248154,2.78,S.S. Rajamouli,Tollywood,155,UA
+Jersey II,2026,"Drama, Sports",7.9,38225,2.78,Gowtam Tinnanuri,Tollywood,131,U
+Indra Reloaded,2014,"Action, Drama",7.1,10238,2.78,B. Gopal,Tollywood,139,U
+Dasara II,2011,"Action, Drama",6.8,12193,1.74,Srikanth Odela,Tollywood,166,UA
+Fidaa Legacy,2006,"Comedy, Drama, Romance",6.8,7408,1.38,Sekhar Kammula,Tollywood,117,U
+Baahubali: The Beginning Returns,2017,"Action, Drama, Fantasy",8.3,233662,2.78,S.S. Rajamouli,Tollywood,128,UA
+Athadu Chapter 2,2012,"Action, Comedy, Crime",8.2,28161,0.8,Trivikram Srinivas,Tollywood,181,UA
+Mahanati Legacy,2019,"Biography, Drama",7.6,41434,2.78,Nag Ashwin,Tollywood,169,U
+Srimanthudu 3,2016,"Action, Drama",7.0,23608,2.24,Koratala Siva,Tollywood,171,U
+Fidaa Part 2,2022,"Comedy, Drama, Romance",7.0,8101,2.78,Sekhar Kammula,Tollywood,119,U
+Pokiri Vengeance,2025,"Action, Crime, Thriller",7.8,25827,2.78,Puri Jagannadh,Tollywood,189,UA
+Dasara Reloaded,2011,"Action, Drama",6.9,12971,2.78,Srikanth Odela,Tollywood,144,UA
+Sita Ramam Reloaded,2018,"Drama, Mystery, Romance",8.9,80835,2.78,Hanu Raghavapudi,Tollywood,166,U
+Pushpa: The Rise Reloaded,2015,"Action, Crime, Drama",8.1,82407,4.54,Sukumar,Tollywood,172,UA
+Indra III,2009,"Action, Drama",6.6,4662,1.56,B. Gopal,Tollywood,155,U
+Jersey Vengeance,2012,"Drama, Sports",9.0,24933,0.79,Gowtam Tinnanuri,Tollywood,160,U
+Bommarillu 3,2010,"Comedy, Drama, Romance",8.2,7768,2.78,Bhaskar,Tollywood,163,U
+Indra III,2018,"Action, Drama",7.9,11894,0.38,B. Gopal,Tollywood,201,U
+Janatha Garage Vengeance,2020,"Action, Drama",7.9,20145,2.78,Koratala Siva,Tollywood,168,UA
+Chatrapathi 3,2017,"Action, Drama",7.7,16483,0.25,S.S. Rajamouli,Tollywood,201,UA
+Geetha Govindam Part 2,2022,"Comedy, Drama, Romance",7.7,26027,2.78,Parasuram,Tollywood,138,UA
+Dookudu III,2019,"Action, Comedy",7.2,18456,2.78,Srinu Vaitla,Tollywood,197,UA
+Athadu Chapter 3,2007,"Action, Comedy, Crime",7.6,24807,0.89,Trivikram Srinivas,Tollywood,167,UA
+Baahubali: The Beginning Reloaded,2019,"Action, Drama, Fantasy",8.8,79408,2.78,S.S. Rajamouli,Tollywood,184,UA
+Bommarillu Returns,2007,"Comedy, Drama, Romance",8.6,15962,2.78,Bhaskar,Tollywood,162,U
+Sita Ramam Vengeance,2010,"Drama, Mystery, Romance",8.7,33951,2.78,Hanu Raghavapudi,Tollywood,167,U
+Ala Vaikunthapurramuloo Reloaded,2009,"Action, Comedy, Drama",7.8,14424,2.78,Trivikram Srinivas,Tollywood,180,UA
+Athadu Reloaded,2008,"Action, Comedy, Crime",9.1,9095,0.17,Trivikram Srinivas,Tollywood,174,UA
+Gabbar Singh Part 2,2024,"Action, Comedy",6.6,12449,1.97,Harish Shankar,Tollywood,127,UA
+Jersey Legacy,2013,"Drama, Sports",7.7,17337,0.2,Gowtam Tinnanuri,Tollywood,182,U
+Attarintiki Daredi Vengeance,2014,"Action, Comedy, Drama",8.1,8029,2.78,Trivikram Srinivas,Tollywood,146,UA
+Pokiri Vengeance,2023,"Action, Crime, Thriller",8.9,30856,2.78,Puri Jagannadh,Tollywood,136,UA
+Srimanthudu Chapter 2,2007,"Action, Drama",8.2,7168,0.57,Koratala Siva,Tollywood,186,U
+Sarileru Neekevvaru Legacy,2011,"Action, Comedy, Drama",6.4,9295,3.4,Anil Ravipudi,Tollywood,201,UA
+Bommarillu Vengeance,2014,"Comedy, Drama, Romance",8.4,10722,1.19,Bhaskar,Tollywood,160,U
+Salaar: Part 1 - Ceasefire Chapter 3,2021,"Action, Drama, Thriller",7.7,46191,6.756250000000001,Prashanth Neel,Tollywood,208,A
+Karthikeya 2 Returns,2011,"Action, Adventure, Mystery",7.7,15010,5.26,Chandoo Mondeti,Tollywood,120,UA
+Magadheera III,2007,"Action, Drama, Fantasy",7.3,33124,1.34,S.S. Rajamouli,Tollywood,154,UA
+Salaar: Part 1 - Ceasefire Vengeance,2005,"Action, Drama, Thriller",7.7,105044,6.756250000000001,Prashanth Neel,Tollywood,173,A
+Hanu-Man Reloaded,2025,"Action, Adventure, Fantasy",8.8,28719,2.78,Prasanth Varma,Tollywood,185,UA
+Sita Ramam III,2023,"Drama, Mystery, Romance",8.7,31684,4.54,Hanu Raghavapudi,Tollywood,190,U
+RRR Reloaded,2013,"Action, Drama, Sci-Fi",7.5,170057,6.756250000000001,S.S. Rajamouli,Tollywood,194,UA
+Pushpa: The Rise III,2015,"Action, Crime, Drama",7.1,31509,4.17,Sukumar,Tollywood,202,UA
+Sita Ramam III,2010,"Drama, Mystery, Romance",7.7,33365,2.78,Hanu Raghavapudi,Tollywood,159,U
+Fidaa Legacy,2009,"Comedy, Drama, Romance",7.2,9801,0.8,Sekhar Kammula,Tollywood,133,U
+Pushpa: The Rise Legacy,2026,"Action, Crime, Drama",7.0,27741,2.78,Sukumar,Tollywood,151,UA
+Baahubali 2: The Conclusion Vengeance,2007,"Action, Drama, Fantasy",8.1,59767,6.756250000000001,S.S. Rajamouli,Tollywood,154,UA
+Magadheera II,2015,"Action, Drama, Fantasy",7.1,22874,2.78,S.S. Rajamouli,Tollywood,177,UA
+Arjun Reddy III,2008,"Drama, Romance",8.9,46880,2.78,Sandeep Reddy Vanga,Tollywood,171,A
+Ala Vaikunthapurramuloo III,2023,"Action, Comedy, Drama",7.7,24176,3.7,Trivikram Srinivas,Tollywood,133,UA
+Baahubali 2: The Conclusion Returns,2017,"Action, Drama, Fantasy",7.4,114226,6.756250000000001,S.S. Rajamouli,Tollywood,175,UA
+Karthikeya 2 Vengeance,2016,"Action, Adventure, Mystery",7.6,11958,6.46,Chandoo Mondeti,Tollywood,124,UA
+Dookudu Chapter 3,2023,"Action, Comedy",6.6,22145,0.68,Srinu Vaitla,Tollywood,157,UA
+Dookudu Chapter 3,2020,"Action, Comedy",8.3,9302,1.2,Srinu Vaitla,Tollywood,160,UA
+Indra 3,2015,"Action, Drama",7.4,3588,2.78,B. Gopal,Tollywood,169,U
+Dookudu 3,2024,"Action, Comedy",7.4,14410,0.71,Srinu Vaitla,Tollywood,173,UA
+Magadheera Legacy,2019,"Action, Drama, Fantasy",7.9,21446,2.78,S.S. Rajamouli,Tollywood,197,UA
+Rangasthalam II,2023,"Action, Drama",9.0,32284,3.19,Sukumar,Tollywood,160,UA
+RRR Vengeance,2020,"Action, Drama, Sci-Fi",8.0,191098,6.756250000000001,S.S. Rajamouli,Tollywood,162,UA
+RRR Vengeance,2008,"Action, Drama, Sci-Fi",7.5,234797,2.78,S.S. Rajamouli,Tollywood,210,UA
+Fidaa Part 2,2009,"Comedy, Drama, Romance",7.4,7498,1.06,Sekhar Kammula,Tollywood,126,U
+Magadheera Vengeance,2026,"Action, Drama, Fantasy",8.5,47625,6.1,S.S. Rajamouli,Tollywood,198,UA
+Kalki 2898 AD Legacy,2017,"Action, Sci-Fi",8.2,44521,6.756250000000001,Nag Ashwin,Tollywood,144,UA
+Srimanthudu Returns,2014,"Action, Drama",7.0,18639,2.78,Koratala Siva,Tollywood,176,U
+Sarileru Neekevvaru Legacy,2011,"Action, Comedy, Drama",6.1,10952,2.78,Anil Ravipudi,Tollywood,191,UA
+Janatha Garage Reloaded,2009,"Action, Drama",6.3,5759,2.1,Koratala Siva,Tollywood,157,UA
+RRR Reloaded,2025,"Action, Drama, Sci-Fi",8.5,294459,6.756250000000001,S.S. Rajamouli,Tollywood,196,UA
+Sarileru Neekevvaru Legacy,2019,"Action, Comedy, Drama",5.9,10901,3.16,Anil Ravipudi,Tollywood,192,UA

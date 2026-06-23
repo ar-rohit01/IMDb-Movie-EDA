@@ -1,0 +1,601 @@
+ Movie_Title,Release_Year,Genre,IMDb_Rating,Num_Votes,Gross_Earnings ($M),Director_Name,Region,Runtime_Minutes,Certificate
+  Kabir Singh  ,(2008),"Drama, Romance",7.5,"41,632",N/A,Sandeep Reddy Vanga,Bollywood,185 min,A
+  Lagaan  ,(2023/I),"Drama, Musical, Sports",7.2,"76,865",unknown,Ashutosh Gowariker,Bollywood,181 min,U
+  Kabir Singh  ,(2022/I),"Drama, Romance",6.4,"66,427",$1.65M,Sandeep Reddy Vanga,Bollywood,194 min,A
+  Jawan  ,(I) (2013),"Action, Thriller",6.4,"180,976",,Atlee,Bollywood,140 min,UA
+  Shershaah  ,(2013),"Action, Biography, Drama",8.9,"169,564",$0.0M,Vishnuvardhan,Bollywood,137 min,UA
+  Shershaah  ,(I) (2016),"Action, Biography, Drama",8.8,"73,935",,Vishnuvardhan,Bollywood,161 min,UA
+  Gangs of Wasseypur  ,(2008/I),"Action, Comedy, Crime",7.8,"138,085",$0.65M,Anurag Kashyap,Bollywood,283 min,A
+  Haider  ,(2026),"Action, Drama, Thriller",8.2,"41,618",$0.59M,Vishal Bhardwaj,Bollywood,152 min,UA
+  Kabir Singh  ,(I) (2022),"Drama, Romance",7.4,"84,685",$4.78M,Sandeep Reddy Vanga,Bollywood,140 min,A
+  War  ,(I) (2007),"Action, Thriller",7.3,"43,224",$4.02M,Siddharth Anand,Bollywood,153 min,UA
+  Kabir Singh  ,(I) (2019),"Drama, Romance",6.5,"41,757",$5.25M,Sandeep Reddy Vanga,Bollywood,178 min,A
+  Barfi!  ,(I) (2016),"Comedy, Drama, Romance",9.1,"60,137",$6.55M,Anurag Basu,Bollywood,172 min,UA
+  Bajrangi Bhaijaan  ,(2026/I),"Action, Adventure, Comedy",8.3,"102,329",$12.67M,Kabir Khan,Bollywood,146 min,UA
+  3 Idiots  ,(2026),"Comedy, Drama",8.8,"548,291",unknown,Rajkumar Hirani,Bollywood,159 min,UA
+  Bajrangi Bhaijaan  ,(2019),"Action, Adventure, Comedy",9.0,"172,309",unknown,Kabir Khan,Bollywood,180 min,UA
+  Sholay  ,(II) (2025),"Action, Adventure, Comedy",8.8,"75,689",,Ramesh Sippy,Bollywood,225 min,U
+  Swades  ,(2021),Drama,8.4,"110,961",,Ashutosh Gowariker,Bollywood,217 min,U
+  Pathaan  ,(2012),"Action, Adventure, Thriller",5.4,"124,295",unknown,Siddharth Anand,Bollywood,145 min,UA
+  Swades  ,(I) (2022),Drama,7.5,"109,163",$1.22M,Ashutosh Gowariker,Bollywood,217 min,U
+  PK  ,(I) (2022),"Comedy, Drama, Sci-Fi",8.5,"203,220",$13.87M,Rajkumar Hirani,Bollywood,177 min,UA
+  Sanju  ,(2012),"Biography, Drama",7.3,"82,947",N/A,Rajkumar Hirani,Bollywood,124 min,UA
+  Dangal  ,(2012),"Action, Biography, Drama",9.1,"357,890",N/A,Nitesh Tiwari,Bollywood,146 min,U
+  Andhadhun  ,(2009/I),"Comedy, Crime, Music",7.7,"106,432",$0.67M,Sriram Raghavan,Bollywood,147 min,UA
+  Zindagi Na Milegi Dobara  ,(2019),"Comedy, Drama, Musical",8.5,"158,099",,Zoya Akhtar,Bollywood,169 min,UA
+  Sholay  ,(I) (2012),"Action, Adventure, Comedy",7.5,"70,375",$3.37M,Ramesh Sippy,Bollywood,183 min,U
+  Yeh Jawaani Hai Deewani  ,(2022),"Comedy, Drama, Romance",6.4,"109,940",$11.08M,Ayan Mukerji,Bollywood,187 min,UA
+  Bajrangi Bhaijaan  ,(2018/I),"Action, Adventure, Comedy",8.1,"170,712",$6.03M,Kabir Khan,Bollywood,130 min,UA
+  Haider  ,(II) (2019),"Action, Drama, Thriller",7.8,"106,478",$1.44M,Vishal Bhardwaj,Bollywood,173 min,UA
+  Pathaan  ,(2011),"Action, Adventure, Thriller",6.1,"120,822",$7.95M,Siddharth Anand,Bollywood,150 min,UA
+  Gangs of Wasseypur  ,(I) (2021),"Action, Comedy, Crime",7.3,"119,865",$0.24M,Anurag Kashyap,Bollywood,265 min,A
+  Barfi! Returns  ,(I) (2023),"Comedy, Drama, Romance",8.3,"47,567",unknown,Anurag Basu,Bollywood,156 min,UA
+  Haider III  ,(II) (2011),"Action, Drama, Thriller",7.5,"60,152",$0.89M,Vishal Bhardwaj,Bollywood,148 min,UA
+  Lagaan Part 2  ,(2019),"Drama, Musical, Sports",7.2,"98,367",,Ashutosh Gowariker,Bollywood,258 min,U
+  Queen III  ,(2010/I),"Comedy, Drama",nan,"105,761",$4.15M,Vikas Bahl,Bollywood,154 min,UA
+  Pathaan Returns  ,(II) (2009),"Action, Adventure, Thriller",5.1,"60,770",$18.12M,Siddharth Anand,Bollywood,152 min,UA
+  PK III  ,(2021/I),"Comedy, Drama, Sci-Fi",7.6,"344,514",unknown,Rajkumar Hirani,Bollywood,148 min,UA
+  3 Idiots 3  ,(II) (2009),"Comedy, Drama",7.7,"488,356",$11.79M,Rajkumar Hirani,Bollywood,143 min,UA
+  Gangubai Kathiawadi Reloaded  ,(2022),"Biography, Crime, Drama",8.5,"48,081",N/A,Sanjay Leela Bhansali,Bollywood,124 min,UA
+  Haider Part 2  ,(I) (2016),"Action, Drama, Thriller",8.4,"82,522",$1.45M,Vishal Bhardwaj,Bollywood,183 min,UA
+  My Name Is Khan Reloaded  ,(I) (2012),Drama,8.9,"180,196",$1.47M,Karan Johar,Bollywood,180 min,UA
+  Haider Chapter 2  ,(I) (2026),"Action, Drama, Thriller",7.5,"92,458",N/A,Vishal Bhardwaj,Bollywood,182 min,UA
+  Taare Zameen Par Chapter 3  ,(II) (2016),"Drama, Family",8.9,"361,396",unknown,Aamir Khan,Bollywood,144 min,U
+  Gangs of Wasseypur Returns  ,(II) (2013),"Action, Comedy, Crime",8.5,"104,454",$980.5M,Anurag Kashyap,Bollywood,377 min,A
+  War Reloaded  ,(II) (2023),"Action, Thriller",5.6,"44,635",,Siddharth Anand,Bollywood,150 min,UA
+  Sholay Chapter 2  ,(I) (2023),"Action, Adventure, Comedy",7.6,"93,790",unknown,Ramesh Sippy,Bollywood,219 min,U
+  My Name Is Khan II  ,(2016/I),Drama,7.0,"157,117",,Karan Johar,Bollywood,175 min,UA
+  Bhaag Milkha Bhaag III  ,(II) (2021),"Biography, Drama, Sports",8.5,"69,249",$2.34M,Rakeysh Omprakash Mehra,Bollywood,163 min,UA
+  Barfi! Reloaded  ,(II) (2024),"Comedy, Drama, Romance",7.9,"148,799",N/A,Anurag Basu,Bollywood,146 min,UA
+  Kabir Singh 3  ,(2019/I),"Drama, Romance",6.9,"39,386",$14.21M,Sandeep Reddy Vanga,Bollywood,193 min,A
+  Lagaan III  ,(II) (2021),"Drama, Musical, Sports",7.3,"231,359",,Ashutosh Gowariker,Bollywood,199 min,U
+  3 Idiots Part 2  ,(2012/I),"Comedy, Drama",8.6,"694,148",$17.5M,Rajkumar Hirani,Bollywood,175 min,UA
+  Barfi! Chapter 3  ,(I) (2017),"Comedy, Drama, Romance",7.4,"130,171",$7.34M,Anurag Basu,Bollywood,174 min,UA
+  Sanju Reloaded  ,(2021/I),"Biography, Drama",6.7,"52,427",$12.11M,Rajkumar Hirani,Bollywood,173 min,UA
+  Andhadhun Vengeance  ,(2015/I),"Comedy, Crime, Music",8.4,"138,944",$3.05M,Sriram Raghavan,Bollywood,141 min,UA
+  My Name Is Khan Chapter 3  ,(II) (2019),Drama,8.4,"184,778",unknown,Karan Johar,Bollywood,163 min,UA
+  Yeh Jawaani Hai Deewani Returns  ,(I) (2014),"Comedy, Drama, Romance",6.8,"53,876",$2.56M,Ayan Mukerji,Bollywood,142 min,UA
+  Gangubai Kathiawadi II  ,(2007/I),"Biography, Crime, Drama",7.6,"45,987",$2.92M,Sanjay Leela Bhansali,Bollywood,147 min,UA
+  Stree Part 2  ,(2023/I),"Comedy, Horror",7.5,"76,564",,Amar Kaushik,Bollywood,146 min,UA
+  Zindagi Na Milegi Dobara Legacy  ,(I) (2022),"Comedy, Drama, Musical",8.2,"72,752",$4.18M,Zoya Akhtar,Bollywood,165 min,UA
+  My Name Is Khan Reloaded  ,(I) (2019),Drama,8.9,"136,624",$7.59M,Karan Johar,Bollywood,175 min,UA
+  Zindagi Na Milegi Dobara Reloaded  ,(I) (2019),"Comedy, Drama, Musical",7.3,"85,492",,Zoya Akhtar,Bollywood,144 min,UA
+  War Chapter 2  ,(2013),"Action, Thriller",6.4,"51,953",,Siddharth Anand,Bollywood,137 min,UA
+  Kabir Singh Part 2  ,(I) (2005),"Drama, Romance",6.4,"25,467",N/A,Sandeep Reddy Vanga,Bollywood,171 min,A
+  PK Chapter 3  ,(II) (2013),"Comedy, Drama, Sci-Fi",7.4,"261,011",$6.46M,Rajkumar Hirani,Bollywood,172 min,UA
+  Sholay Vengeance  ,(II) (2005),"Action, Adventure, Comedy",8.3,"111,722",$9.09M,Ramesh Sippy,Bollywood,179 min,U
+  Taare Zameen Par II  ,(II) (2008),"Drama, Family",9.0,"280,123",unknown,Aamir Khan,Bollywood,183 min,U
+  Zindagi Na Milegi Dobara 3  ,(II) (2007),"Comedy, Drama, Musical",7.2,"90,407",$4.56M,Zoya Akhtar,Bollywood,146 min,UA
+  Yeh Jawaani Hai Deewani Reloaded  ,(I) (2018),"Comedy, Drama, Romance",7.8,"107,151",unknown,Ayan Mukerji,Bollywood,177 min,UA
+  Taare Zameen Par Vengeance  ,(II) (2013),"Drama, Family",9.0,"349,219",,Aamir Khan,Bollywood,148 min,U
+  Shershaah Chapter 2  ,(2015),"Action, Biography, Drama",8.4,"128,377",$0.0M,Vishnuvardhan,Bollywood,121 min,UA
+  Shershaah III  ,(2022),"Action, Biography, Drama",8.4,"102,256",,Vishnuvardhan,Bollywood,134 min,UA
+  Gangubai Kathiawadi Chapter 3  ,(2025/I),"Biography, Crime, Drama",7.7,"18,405",,Sanjay Leela Bhansali,Bollywood,163 min,UA
+  Stree 3  ,(II) (2020),"Comedy, Horror",7.4,"64,756",unknown,Amar Kaushik,Bollywood,125 min,UA
+  Sanju Returns  ,(II) (2011),"Biography, Drama",6.8,"78,227",$6.32M,Rajkumar Hirani,Bollywood,137 min,UA
+  My Name Is Khan Vengeance  ,(II) (2021),Drama,nan,"183,638",,Karan Johar,Bollywood,143 min,UA
+  Dilwale Dulhania Le Jayenge III  ,(2006),"Drama, Romance",,"111,321",,Aditya Chopra,Bollywood,158 min,U
+  Gully Boy Chapter 3  ,(II) (2019),"Drama, Musical",7.3,"24,236",$8.74M,Zoya Akhtar,Bollywood,173 min,UA
+  Lagaan Vengeance  ,(2025),"Drama, Musical, Sports",7.4,"206,005",$0.48M,Ashutosh Gowariker,Bollywood,201 min,U
+  Zindagi Na Milegi Dobara Vengeance  ,(I) (2024),"Comedy, Drama, Musical",8.8,"85,645",$3.42M,Zoya Akhtar,Bollywood,160 min,UA
+  Stree Vengeance  ,(2006),"Comedy, Horror",8.4,"32,467",unknown,Amar Kaushik,Bollywood,106 min,UA
+  Andhadhun Returns  ,(2010),"Comedy, Crime, Music",8.0,"134,996",$0.47M,Sriram Raghavan,Bollywood,127 min,UA
+  Gangs of Wasseypur Chapter 3  ,(I) (2007),"Action, Comedy, Crime",9.0,"159,765",$1.04M,Anurag Kashyap,Bollywood,376 min,A
+  Andhadhun II  ,(I) (2025),"Comedy, Crime, Music",9.0,"153,115",N/A,Sriram Raghavan,Bollywood,155 min,UA
+  Taare Zameen Par Vengeance  ,(2014/I),"Drama, Family",7.5,"306,603",$3.41M,Aamir Khan,Bollywood,165 min,U
+  Lagaan Vengeance  ,(2006/I),"Drama, Musical, Sports",8.6,"168,668",N/A,Ashutosh Gowariker,Bollywood,265 min,U
+  Stree Vengeance  ,(II) (2005),"Comedy, Horror",7.7,"65,786",unknown,Amar Kaushik,Bollywood,135 min,UA
+  Bajrangi Bhaijaan Vengeance  ,(2018/I),"Action, Adventure, Comedy",9.0,"114,476",$9.45M,Kabir Khan,Bollywood,137 min,UA
+  Zindagi Na Milegi Dobara Chapter 3  ,(2014/I),"Comedy, Drama, Musical",8.8,"106,011",$3.56M,Zoya Akhtar,Bollywood,144 min,UA
+  Barfi! Legacy  ,(2005/I),"Comedy, Drama, Romance",7.9,"66,416",$6.56M,Anurag Basu,Bollywood,420 min,UA
+  PK III  ,(I) (2022),"Comedy, Drama, Sci-Fi",9.0,"214,077",$6.66M,Rajkumar Hirani,Bollywood,181 min,UA
+  Sanju Reloaded  ,(2014),"Biography, Drama",7.7,"38,388",$21.84M,Rajkumar Hirani,Bollywood,152 min,UA
+  Taare Zameen Par Reloaded  ,(II) (2020),"Drama, Family",8.3,"182,027",$3.54M,Aamir Khan,Bollywood,148 min,U
+  Barfi! II  ,(I) (2024),"Comedy, Drama, Romance",8.8,"77,721",$3.98M,Anurag Basu,Bollywood,177 min,UA
+  Taare Zameen Par Part 2  ,(II) (2014),"Drama, Family",9.0,"273,977",$3.16M,Aamir Khan,Bollywood,161 min,U
+  Jawan Legacy  ,(2022/I),"Action, Thriller",6.9,"108,093",unknown,Atlee,Bollywood,150 min,UA
+  Gangs of Wasseypur Chapter 2  ,(II) (2006),"Action, Comedy, Crime",8.7,"147,994",$0.67M,Anurag Kashyap,Bollywood,342 min,A
+  Dilwale Dulhania Le Jayenge Chapter 3  ,(I) (2006),"Drama, Romance",8.0,"99,739",$6.65M,Aditya Chopra,Bollywood,184 min,U
+  Yeh Jawaani Hai Deewani Part 2  ,(2009/I),"Comedy, Drama, Romance",8.0,"107,521",,Ayan Mukerji,Bollywood,149 min,UA
+  Kabir Singh Returns  ,(2015/I),"Drama, Romance",7.9,"69,129",$8.41M,Sandeep Reddy Vanga,Bollywood,175 min,A
+  Sanju III  ,(2012),"Biography, Drama",7.5,"38,859",$20.98M,Rajkumar Hirani,Bollywood,151 min,UA
+  Bhaag Milkha Bhaag Part 2  ,(II) (2006),"Biography, Drama, Sports",8.8,"65,803",$0.9M,Rakeysh Omprakash Mehra,Bollywood,188 min,UA
+  Chak De! India Reloaded  ,(I) (2010),"Drama, Family, Sports",7.3,"148,113",$1.05M,Shimit Amin,Bollywood,174 min,U
+  Yeh Jawaani Hai Deewani III  ,(II) (2019),"Comedy, Drama, Romance",7.6,"101,659",$4.09M,Ayan Mukerji,Bollywood,162 min,UA
+  Queen Vengeance  ,(2014/I),"Comedy, Drama",8.5,"80,597",,Vikas Bahl,Bollywood,166 min,UA
+  Barfi! Vengeance  ,(II) (2016),"Comedy, Drama, Romance",9.1,"80,141",$5.82M,Anurag Basu,Bollywood,137 min,UA
+  Uri: The Surgical Strike Part 2  ,(2024/I),"Action, Drama, History",8.9,"120,536",$3.78M,Aditya Dhar,Bollywood,154 min,UA
+  PK Vengeance  ,(I) (2013),"Comedy, Drama, Sci-Fi",8.4,"343,194",$12.02M,Rajkumar Hirani,Bollywood,149 min,UA
+  My Name Is Khan Reloaded  ,(II) (2007),Drama,7.6,"117,941",unknown,Karan Johar,Bollywood,189 min,UA
+  Drishyam III  ,(II) (2010),"Crime, Drama, Mystery",9.0,"182,046",$0.77M,Nishikant Kamat,Bollywood,187 min,UA
+  Yeh Jawaani Hai Deewani Returns  ,(I) (2009),"Comedy, Drama, Romance",8.0,"87,247",$11.06M,Ayan Mukerji,Bollywood,179 min,UA
+  Chak De! India Chapter 2  ,(II) (2005),"Drama, Family, Sports",8.2,"96,938",$2.33M,Shimit Amin,Bollywood,155 min,U
+  Queen Returns  ,(I) (2026),"Comedy, Drama",8.0,"97,193",$1.66M,Vikas Bahl,Bollywood,152 min,UA
+  Kabir Singh Chapter 3  ,(2014/I),"Drama, Romance",6.2,"27,264",,Sandeep Reddy Vanga,Bollywood,146 min,A
+  Andhadhun Reloaded  ,(2017/I),"Comedy, Crime, Music",7.9,"169,318",$2.11M,Sriram Raghavan,Bollywood,143 min,UA
+  Bhaag Milkha Bhaag Chapter 2  ,(2025),"Biography, Drama, Sports",8.9,"99,643",$1.37M,Rakeysh Omprakash Mehra,Bollywood,200 min,UA
+  Yeh Jawaani Hai Deewani II  ,(2016),"Comedy, Drama, Romance",8.3,"57,805",$7.76M,Ayan Mukerji,Bollywood,131 min,UA
+  Sholay Chapter 3  ,(I) (2007),"Action, Adventure, Comedy",8.4,"83,743",,Ramesh Sippy,Bollywood,183 min,U
+  Stree II  ,(I) (2007),"Comedy, Horror",7.7,"68,783",N/A,Amar Kaushik,Bollywood,142 min,UA
+  War Reloaded  ,(II) (2009),"Action, Thriller",7.1,"21,276",$3.02M,Siddharth Anand,Bollywood,145 min,UA
+  Stree 3  ,(I) (2005),"Comedy, Horror",7.0,"27,605",$1.09M,Amar Kaushik,Bollywood,105 min,UA
+  Queen Legacy  ,(2023),"Comedy, Drama",8.0,"56,598",$3.17M,Vikas Bahl,Bollywood,169 min,UA
+  Pathaan Chapter 3  ,(2025),"Action, Adventure, Thriller",5.0,"112,099",$37.67M,Siddharth Anand,Bollywood,145 min,UA
+  Lagaan Returns  ,(I) (2015),"Drama, Musical, Sports",7.2,"109,502",$1.6M,Ashutosh Gowariker,Bollywood,208 min,U
+  Drishyam III  ,(2019/I),"Crime, Drama, Mystery",7.4,"147,503",$1.44M,Nishikant Kamat,Bollywood,180 min,UA
+  PK Chapter 2  ,(I) (2019),"Comedy, Drama, Sci-Fi",7.9,"322,108",$24.06M,Rajkumar Hirani,Bollywood,141 min,UA
+  War 3  ,(2009/I),"Action, Thriller",5.6,"55,925",N/A,Siddharth Anand,Bollywood,169 min,UA
+  Dilwale Dulhania Le Jayenge Legacy  ,(II) (2006),"Drama, Romance",8.3,"80,367",$7.1M,Aditya Chopra,Bollywood,183 min,U
+  Dangal III  ,(II) (2024),"Action, Biography, Drama",8.0,"273,375",unknown,Nitesh Tiwari,Bollywood,159 min,U
+  Queen Legacy  ,(2016),"Comedy, Drama",8.6,"92,558",$3.61M,Vikas Bahl,Bollywood,173 min,UA
+  Shershaah Legacy  ,(II) (2005),"Action, Biography, Drama",7.5,"118,287",$0.0M,Vishnuvardhan,Bollywood,126 min,UA
+  Dilwale Dulhania Le Jayenge Vengeance  ,(2026/I),"Drama, Romance",7.1,"116,024",$1.37M,Aditya Chopra,Bollywood,191 min,U
+  Yeh Jawaani Hai Deewani 3  ,(II) (2010),"Comedy, Drama, Romance",6.9,"54,261",$7.26M,Ayan Mukerji,Bollywood,184 min,UA
+  Swades Vengeance  ,(2006),Drama,7.7,"134,361",$1.79M,Ashutosh Gowariker,Bollywood,171 min,U
+  Sholay 3  ,(2018),"Action, Adventure, Comedy",7.7,"91,063",$6.72M,Ramesh Sippy,Bollywood,166 min,U
+  Shershaah Part 2  ,(I) (2005),"Action, Biography, Drama",8.0,"106,190",,Vishnuvardhan,Bollywood,123 min,UA
+  Gully Boy Chapter 2  ,(I) (2010),"Drama, Musical",7.7,"65,331",$14.03M,Zoya Akhtar,Bollywood,172 min,UA
+  Gangs of Wasseypur Part 2  ,(2018),"Action, Comedy, Crime",8.1,"58,595",,Anurag Kashyap,Bollywood,330 min,A
+  Zindagi Na Milegi Dobara III  ,(2008/I),"Comedy, Drama, Musical",7.2,"78,972",$6.1M,Zoya Akhtar,Bollywood,175 min,UA
+  Lagaan Chapter 2  ,(I) (2008),"Drama, Musical, Sports",8.0,"132,080",,Ashutosh Gowariker,Bollywood,246 min,U
+  Swades Reloaded  ,(2007),Drama,8.3,"71,177",$1.5M,Ashutosh Gowariker,Bollywood,223 min,U
+  Dilwale Dulhania Le Jayenge II  ,(I) (2008),"Drama, Romance",7.5,"54,737",unknown,Aditya Chopra,Bollywood,156 min,U
+  Kabir Singh Chapter 3  ,(2019/I),"Drama, Romance",7.4,"87,507",$15.41M,Sandeep Reddy Vanga,Bollywood,160 min,A
+  Jawan Reloaded  ,(2019),"Action, Thriller",6.9,"159,178",$28.83M,Atlee,Bollywood,158 min,UA
+  Yeh Jawaani Hai Deewani Chapter 3  ,(2006),"Comedy, Drama, Romance",7.0,"51,183",$11.17M,Ayan Mukerji,Bollywood,133 min,UA
+  Barfi! Chapter 3  ,(2023),"Comedy, Drama, Romance",8.0,"145,751",$3.27M,Anurag Basu,Bollywood,149 min,UA
+  Dangal Chapter 3  ,(II) (2008),"Action, Biography, Drama",9.3,"125,298",$5.03M,Nitesh Tiwari,Bollywood,174 min,U
+  Drishyam Legacy  ,(I) (2024),"Crime, Drama, Mystery",7.9,"178,305",$1.67M,Nishikant Kamat,Bollywood,174 min,UA
+  Kabir Singh 3  ,(II) (2007),"Drama, Romance",6.2,"72,843",unknown,Sandeep Reddy Vanga,Bollywood,197 min,A
+  Shershaah Reloaded  ,(2015),"Action, Biography, Drama",8.6,"92,578",unknown,Vishnuvardhan,Bollywood,145 min,UA
+  Shershaah Returns  ,(2014/I),"Action, Biography, Drama",8.7,"129,052",unknown,Vishnuvardhan,Bollywood,152 min,UA
+  Uri: The Surgical Strike Legacy  ,(2007/I),"Action, Drama, History",8.2,"34,277",N/A,Aditya Dhar,Bollywood,129 min,UA
+  PK II  ,(I) (2009),"Comedy, Drama, Sci-Fi",7.3,"326,828",unknown,Rajkumar Hirani,Bollywood,173 min,UA
+  Dangal 3  ,(I) (2024),"Action, Biography, Drama",8.5,"146,275",unknown,Nitesh Tiwari,Bollywood,178 min,U
+  Bajrangi Bhaijaan Chapter 3  ,(2006/I),"Action, Adventure, Comedy",7.8,"150,040",$15.78M,Kabir Khan,Bollywood,179 min,UA
+  Sanju Legacy  ,(II) (2012),"Biography, Drama",8.5,"100,593",$6.51M,Rajkumar Hirani,Bollywood,166 min,UA
+  Yeh Jawaani Hai Deewani Chapter 3  ,(2014/I),"Comedy, Drama, Romance",7.3,"62,039",N/A,Ayan Mukerji,Bollywood,179 min,UA
+  War Part 2  ,(2025/I),"Action, Thriller",7.2,"42,617",unknown,Siddharth Anand,Bollywood,175 min,UA
+  Swades Reloaded  ,(2013/I),Drama,9.0,"64,892",$3.43M,Ashutosh Gowariker,Bollywood,167 min,U
+  Queen Part 2  ,(2018),"Comedy, Drama",7.9,"72,144",$0.73M,Vikas Bahl,Bollywood,129 min,UA
+  Sholay 3  ,(I) (2009),"Action, Adventure, Comedy",7.2,"112,565",$8.14M,Ramesh Sippy,Bollywood,225 min,U
+  Shershaah Part 2  ,(2007),"Action, Biography, Drama",7.9,"227,817",$0.0M,Vishnuvardhan,Bollywood,136 min,UA
+  Pathaan II  ,(2014),"Action, Adventure, Thriller",5.0,"103,935",$26.85M,Siddharth Anand,Bollywood,123 min,UA
+  Shershaah Legacy  ,(I) (2005),"Action, Biography, Drama",8.8,"121,798",,Vishnuvardhan,Bollywood,120 min,UA
+  Uri: The Surgical Strike Returns  ,(II) (2021),"Action, Drama, History",7.3,"83,790",$12.17M,Aditya Dhar,Bollywood,140 min,UA
+  Gully Boy Part 2  ,(2025/I),"Drama, Musical",8.9,"36,979",N/A,Zoya Akhtar,Bollywood,144 min,UA
+  Kabir Singh Returns  ,(II) (2023),"Drama, Romance",6.3,"49,365",unknown,Sandeep Reddy Vanga,Bollywood,150 min,A
+  Yeh Jawaani Hai Deewani Chapter 3  ,(I) (2025),"Comedy, Drama, Romance",N/A,"32,705",$5.84M,Ayan Mukerji,Bollywood,146 min,UA
+  Bhaag Milkha Bhaag Part 2  ,(II) (2015),"Biography, Drama, Sports",8.2,"138,857",$1.28M,Rakeysh Omprakash Mehra,Bollywood,204 min,UA
+  Queen Part 2  ,(II) (2025),"Comedy, Drama",7.6,"115,532",$1.93M,Vikas Bahl,Bollywood,142 min,UA
+  Jawan Reloaded  ,(2020/I),"Action, Thriller",6.7,"186,552",N/A,Atlee,Bollywood,183 min,UA
+  Shershaah Reloaded  ,(II) (2022),"Action, Biography, Drama",8.0,"80,613",$0.0M,Vishnuvardhan,Bollywood,140 min,UA
+  Gangubai Kathiawadi Chapter 3  ,(2016/I),"Biography, Crime, Drama",6.9,"63,176",$10.18M,Sanjay Leela Bhansali,Bollywood,138 min,UA
+  Dangal Returns  ,(2026/I),"Action, Biography, Drama",8.0,"340,328",$35.62M,Nitesh Tiwari,Bollywood,137 min,U
+  Chak De! India Chapter 3  ,(I) (2006),"Drama, Family, Sports",7.2,"136,757",$1.47M,Shimit Amin,Bollywood,154 min,U
+  Uri: The Surgical Strike Chapter 3  ,(II) (2016),"Action, Drama, History",8.1,"39,996",,Aditya Dhar,Bollywood,132 min,UA
+  Sanju Returns  ,(I) (2005),"Biography, Drama",7.6,"64,828",$7.95M,Rajkumar Hirani,Bollywood,140 min,UA
+  Shershaah III  ,(I) (2020),"Action, Biography, Drama",7.6,"231,301",$0.0M,Vishnuvardhan,Bollywood,132 min,UA
+  Uri: The Surgical Strike 3  ,(II) (2026),"Action, Drama, History",8.6,"86,124",,Aditya Dhar,Bollywood,157 min,UA
+  Haider Reloaded  ,(I) (2016),"Action, Drama, Thriller",7.2,"44,080",,Vishal Bhardwaj,Bollywood,129 min,UA
+  Queen Chapter 3  ,(I) (2022),"Comedy, Drama",8.3,"42,793",unknown,Vikas Bahl,Bollywood,158 min,UA
+  Swades Chapter 2  ,(2023),Drama,7.5,"87,798",,Ashutosh Gowariker,Bollywood,202 min,U
+  Bhaag Milkha Bhaag Legacy  ,(I) (2025),"Biography, Drama, Sports",8.7,"48,548",$3.44M,Rakeysh Omprakash Mehra,Bollywood,210 min,UA
+  Pathaan Reloaded  ,(II) (2010),"Action, Adventure, Thriller",6.8,"77,114",$29.77M,Siddharth Anand,Bollywood,133 min,UA
+  PK Legacy  ,(I) (2013),"Comedy, Drama, Sci-Fi",8.4,"263,003",unknown,Rajkumar Hirani,Bollywood,132 min,UA
+  Dilwale Dulhania Le Jayenge Reloaded  ,(II) (2026),"Drama, Romance",8.7,"96,870",$0.94M,Aditya Chopra,Bollywood,154 min,U
+  Stree III  ,(I) (2025),"Comedy, Horror",8.0,"44,995",$2.96M,Amar Kaushik,Bollywood,134 min,UA
+  Pathaan Chapter 3  ,(2012/I),"Action, Adventure, Thriller",5.5,"56,070",,Siddharth Anand,Bollywood,141 min,UA
+  Jawan Vengeance  ,(II) (2009),"Action, Thriller",7.7,"107,687",$18.73M,Atlee,Bollywood,161 min,UA
+  Drishyam Legacy  ,(II) (2008),"Crime, Drama, Mystery",7.7,"64,959",$0.48M,Nishikant Kamat,Bollywood,133 min,UA
+  Gangs of Wasseypur Vengeance  ,(I) (2018),"Action, Comedy, Crime",9.1,"176,079",$1.41M,Anurag Kashyap,Bollywood,349 min,A
+  Bajrangi Bhaijaan Chapter 3  ,(2021/I),"Action, Adventure, Comedy",8.1,"91,467",,Kabir Khan,Bollywood,163 min,UA
+  PK Vengeance  ,(2016),"Comedy, Drama, Sci-Fi",7.2,"229,833",$21.9M,Rajkumar Hirani,Bollywood,151 min,UA
+  Gangs of Wasseypur Returns  ,(I) (2018),"Action, Comedy, Crime",9.0,"151,169",$0.64M,Anurag Kashyap,Bollywood,308 min,A
+  PK 3  ,(II) (2022),"Comedy, Drama, Sci-Fi",7.2,"232,430",$11.19M,Rajkumar Hirani,Bollywood,182 min,UA
+  Sholay Reloaded  ,(2008/I),"Action, Adventure, Comedy",7.8,"118,810",$4.12M,Ramesh Sippy,Bollywood,174 min,U
+  Barfi! Legacy  ,(2006),"Comedy, Drama, Romance",7.2,"133,482",$4.77M,Anurag Basu,Bollywood,129 min,UA
+  Dilwale Dulhania Le Jayenge 3  ,(II) (2024),"Drama, Romance",7.3,"142,986",$2.77M,Aditya Chopra,Bollywood,176 min,U
+  Andhadhun Chapter 3  ,(II) (2023),"Comedy, Crime, Music",8.1,"46,196",N/A,Sriram Raghavan,Bollywood,165 min,UA
+  Chak De! India Part 2  ,(2024/I),"Drama, Family, Sports",7.6,"121,637",$2.05M,Shimit Amin,Bollywood,133 min,U
+  Gully Boy Reloaded  ,(2021/I),"Drama, Musical",,"63,885",unknown,Zoya Akhtar,Bollywood,129 min,UA
+  Zindagi Na Milegi Dobara Reloaded  ,(I) (2018),"Comedy, Drama, Musical",8.0,"132,996",$8.24M,Zoya Akhtar,Bollywood,169 min,UA
+  Dilwale Dulhania Le Jayenge Legacy  ,(II) (2011),"Drama, Romance",9.0,"87,664",$7.21M,Aditya Chopra,Bollywood,185 min,U
+  Andhadhun 3  ,(II) (2026),"Comedy, Crime, Music",8.4,"69,378",unknown,Sriram Raghavan,Bollywood,127 min,UA
+  Pathaan III  ,(2011/I),"Action, Adventure, Thriller",5.5,"94,134",$42.83M,Siddharth Anand,Bollywood,132 min,UA
+  Uri: The Surgical Strike Legacy  ,(2017/I),"Action, Drama, History",8.8,"125,574",$4.45M,Aditya Dhar,Bollywood,126 min,UA
+  Queen Chapter 3  ,(II) (2025),"Comedy, Drama",8.6,"55,826",$1.44M,Vikas Bahl,Bollywood,149 min,UA
+  Sholay Vengeance  ,(I) (2023),"Action, Adventure, Comedy",7.6,"90,285",$6.47M,Ramesh Sippy,Bollywood,167 min,U
+  Gangubai Kathiawadi Chapter 3  ,(I) (2008),"Biography, Crime, Drama",6.8,"46,393",$4.76M,Sanjay Leela Bhansali,Bollywood,178 min,UA
+  Gully Boy II  ,(II) (2014),"Drama, Musical",7.5,"24,727",$11.34M,Zoya Akhtar,Bollywood,137 min,UA
+  Gangs of Wasseypur Part 2  ,(2010/I),"Action, Comedy, Crime",9.0,"72,549",$1.5M,Anurag Kashyap,Bollywood,307 min,A
+  Haider III  ,(2006),"Action, Drama, Thriller",7.6,"77,229",$0.96M,Vishal Bhardwaj,Bollywood,157 min,UA
+  Drishyam Chapter 3  ,(2009/I),"Crime, Drama, Mystery",7.7,"162,755",unknown,Nishikant Kamat,Bollywood,160 min,UA
+  Bajrangi Bhaijaan Part 2  ,(II) (2015),"Action, Adventure, Comedy",8.2,"155,412",unknown,Kabir Khan,Bollywood,188 min,UA
+  Drishyam 3  ,(2007/I),"Crime, Drama, Mystery",,"73,831",,Nishikant Kamat,Bollywood,191 min,UA
+  Sanju Chapter 3  ,(II) (2013),"Biography, Drama",7.2,"95,059",unknown,Rajkumar Hirani,Bollywood,146 min,UA
+  Uri: The Surgical Strike Returns  ,(II) (2019),"Action, Drama, History",7.5,"99,392",$11.06M,Aditya Dhar,Bollywood,152 min,UA
+  Kabir Singh III  ,(I) (2016),"Drama, Romance",6.4,"33,616",unknown,Sandeep Reddy Vanga,Bollywood,206 min,A
+  Gangubai Kathiawadi Legacy  ,(I) (2020),"Biography, Crime, Drama",8.3,"53,217",$8.25M,Sanjay Leela Bhansali,Bollywood,153 min,UA
+  Queen Returns  ,(2023),"Comedy, Drama",7.2,"89,860",$2.58M,Vikas Bahl,Bollywood,125 min,UA
+  Drishyam Chapter 3  ,(I) (2008),"Crime, Drama, Mystery",8.6,"117,157",$1.05M,Nishikant Kamat,Bollywood,134 min,UA
+  Zindagi Na Milegi Dobara Chapter 3  ,(2023),"Comedy, Drama, Musical",8.3,"120,732",N/A,Zoya Akhtar,Bollywood,148 min,UA
+  My Name Is Khan II  ,(2023),Drama,7.0,"106,763",N/A,Karan Johar,Bollywood,193 min,UA
+  Haider Chapter 3  ,(II) (2006),"Action, Drama, Thriller",7.8,"90,940",$2.35M,Vishal Bhardwaj,Bollywood,169 min,UA
+  Bhaag Milkha Bhaag Chapter 2  ,(2019/I),"Biography, Drama, Sports",8.0,"106,686",$2.28M,Rakeysh Omprakash Mehra,Bollywood,197 min,UA
+  Bajrangi Bhaijaan Legacy  ,(I) (2017),"Action, Adventure, Comedy",8.6,"79,233",N/A,Kabir Khan,Bollywood,194 min,UA
+  My Name Is Khan Legacy  ,(2018/I),Drama,8.5,"91,483",,Karan Johar,Bollywood,144 min,UA
+  Swades Returns  ,(2006/I),Drama,8.4,"171,392",$1.14M,Ashutosh Gowariker,Bollywood,156 min,U
+  Yeh Jawaani Hai Deewani Vengeance  ,(2026),"Comedy, Drama, Romance",6.8,"31,149",$6.68M,Ayan Mukerji,Bollywood,176 min,UA
+  Dilwale Dulhania Le Jayenge Legacy  ,(I) (2014),"Drama, Romance",8.6,"115,003",unknown,Aditya Chopra,Bollywood,209 min,U
+  Sanju III  ,(I) (2009),"Biography, Drama",7.4,"54,763",$14.99M,Rajkumar Hirani,Bollywood,169 min,UA
+  Uri: The Surgical Strike Chapter 2  ,(2022/I),"Action, Drama, History",7.3,"66,080",$5.45M,Aditya Dhar,Bollywood,139 min,UA
+  Zindagi Na Milegi Dobara Reloaded  ,(2014/I),"Comedy, Drama, Musical",7.6,"104,551",N/A,Zoya Akhtar,Bollywood,142 min,UA
+  Chak De! India Chapter 3  ,(2006/I),"Drama, Family, Sports",9.0,"109,546",N/A,Shimit Amin,Bollywood,135 min,U
+  Lagaan Chapter 3  ,(2016),"Drama, Musical, Sports",8.2,"209,293",,Ashutosh Gowariker,Bollywood,239 min,U
+  Gangs of Wasseypur Returns  ,(I) (2011),"Action, Comedy, Crime",8.2,"171,400",N/A,Anurag Kashyap,Bollywood,283 min,A
+  My Name Is Khan Returns  ,(I) (2020),Drama,8.3,"163,343",$3.78M,Karan Johar,Bollywood,153 min,UA
+  Yeh Jawaani Hai Deewani Legacy  ,(II) (2025),"Comedy, Drama, Romance",6.9,"57,170",$5.92M,Ayan Mukerji,Bollywood,179 min,UA
+  Swades 3  ,(II) (2011),Drama,7.8,"51,171",$2.76M,Ashutosh Gowariker,Bollywood,152 min,U
+  Stree Vengeance  ,(II) (2018),"Comedy, Horror",6.8,"39,791",$4.59M,Amar Kaushik,Bollywood,127 min,UA
+  Uri: The Surgical Strike 3  ,(2013/I),"Action, Drama, History",9.1,"95,065",$3.09M,Aditya Dhar,Bollywood,154 min,UA
+  My Name Is Khan Legacy  ,(I) (2020),Drama,8.7,"137,886",$1.83M,Karan Johar,Bollywood,134 min,UA
+  Taare Zameen Par Part 2  ,(2005/I),"Drama, Family",7.6,"289,210",N/A,Aamir Khan,Bollywood,132 min,U
+  Queen Part 2  ,(2024/I),"Comedy, Drama",8.4,"35,604",$1.97M,Vikas Bahl,Bollywood,117 min,UA
+  Andhadhun III  ,(2005/I),"Comedy, Crime, Music",8.8,"164,090",N/A,Sriram Raghavan,Bollywood,140 min,UA
+  Shershaah Legacy  ,(II) (2013),"Action, Biography, Drama",7.9,"142,394",$0.0M,Vishnuvardhan,Bollywood,138 min,UA
+  Sanju III  ,(2026),"Biography, Drama",7.9,"107,239",$4.36M,Rajkumar Hirani,Bollywood,147 min,UA
+  Dangal Part 2  ,(2010),"Action, Biography, Drama",8.3,"230,172",$22.66M,Nitesh Tiwari,Bollywood,184 min,U
+  Drishyam Part 2  ,(I) (2012),"Crime, Drama, Mystery",9.0,"146,150",$0.72M,Nishikant Kamat,Bollywood,190 min,UA
+  War Legacy  ,(2023),"Action, Thriller",5.9,"56,820",N/A,Siddharth Anand,Bollywood,159 min,UA
+  Gangubai Kathiawadi Chapter 2  ,(II) (2007),"Biography, Crime, Drama",7.1,"30,124",$4.59M,Sanjay Leela Bhansali,Bollywood,176 min,UA
+  Swades Reloaded  ,(II) (2007),Drama,7.3,"104,006",$1.46M,Ashutosh Gowariker,Bollywood,209 min,U
+  Barfi! 3  ,(II) (2005),"Comedy, Drama, Romance",8.7,"99,945",unknown,Anurag Basu,Bollywood,177 min,UA
+  Uri: The Surgical Strike Vengeance  ,(2026/I),"Action, Drama, History",7.4,"92,815",$9.12M,Aditya Dhar,Bollywood,114 min,UA
+  Gangubai Kathiawadi Reloaded  ,(II) (2017),"Biography, Crime, Drama",7.5,"22,304",$5.1M,Sanjay Leela Bhansali,Bollywood,167 min,UA
+  Lagaan Reloaded  ,(2018/I),"Drama, Musical, Sports",8.2,"152,239",N/A,Ashutosh Gowariker,Bollywood,210 min,U
+  Shershaah 3  ,(2017),"Action, Biography, Drama",8.0,"140,620",unknown,Vishnuvardhan,Bollywood,156 min,UA
+  Stree Legacy  ,(2010/I),"Comedy, Horror",6.8,"36,135",N/A,Amar Kaushik,Bollywood,105 min,UA
+  Zindagi Na Milegi Dobara III  ,(2020),"Comedy, Drama, Musical",7.9,"153,306",$5.08M,Zoya Akhtar,Bollywood,162 min,UA
+  Dilwale Dulhania Le Jayenge III  ,(2005/I),"Drama, Romance",7.7,"102,980",$2.97M,Aditya Chopra,Bollywood,176 min,U
+  Gangs of Wasseypur Vengeance  ,(II) (2009),"Action, Comedy, Crime",7.8,"182,487",,Anurag Kashyap,Bollywood,279 min,A
+  Jawan III  ,(2025/I),"Action, Thriller",7.9,"184,025",,Atlee,Bollywood,189 min,UA
+  Sholay Vengeance  ,(I) (2011),"Action, Adventure, Comedy",8.5,"79,508",$4.95M,Ramesh Sippy,Bollywood,221 min,U
+  Pathaan Returns  ,(2018/I),"Action, Adventure, Thriller",5.2,"87,790",N/A,Siddharth Anand,Bollywood,158 min,UA
+  Lagaan Chapter 3  ,(2024/I),"Drama, Musical, Sports",,"156,186",$2.38M,Ashutosh Gowariker,Bollywood,216 min,U
+  Gangubai Kathiawadi Legacy  ,(2024),"Biography, Crime, Drama",7.0,"30,532",$2.55M,Sanjay Leela Bhansali,Bollywood,158 min,UA
+  Kabir Singh Chapter 2  ,(2015/I),"Drama, Romance",6.2,"31,099",unknown,Sandeep Reddy Vanga,Bollywood,174 min,A
+  Stree II  ,(II) (2019),"Comedy, Horror",N/A,"66,340",$2.97M,Amar Kaushik,Bollywood,120 min,UA
+  Pathaan Chapter 2  ,(2007),"Action, Adventure, Thriller",6.6,"146,760",,Siddharth Anand,Bollywood,143 min,UA
+  Gully Boy 3  ,(2020),"Drama, Musical",7.8,"64,896",,Zoya Akhtar,Bollywood,125 min,UA
+  3 Idiots 3  ,(2025),"Comedy, Drama",8.8,"313,543",$6.23M,Rajkumar Hirani,Bollywood,147 min,UA
+  Andhadhun Chapter 2  ,(I) (2019),"Comedy, Crime, Music",nan,"127,128",unknown,Sriram Raghavan,Bollywood,135 min,UA
+  Bhaag Milkha Bhaag II  ,(2019/I),"Biography, Drama, Sports",8.0,"108,997",unknown,Rakeysh Omprakash Mehra,Bollywood,208 min,UA
+  Sholay Legacy  ,(II) (2010),"Action, Adventure, Comedy",7.8,"71,179",,Ramesh Sippy,Bollywood,206 min,U
+  Shershaah Chapter 2  ,(2024/I),"Action, Biography, Drama",8.6,"132,845",$0.0M,Vishnuvardhan,Bollywood,151 min,UA
+  Pathaan Vengeance  ,(2023),"Action, Adventure, Thriller",6.2,"89,219",N/A,Siddharth Anand,Bollywood,127 min,UA
+  Drishyam Chapter 2  ,(I) (2018),"Crime, Drama, Mystery",8.3,"107,783",$1.23M,Nishikant Kamat,Bollywood,190 min,UA
+  Bajrangi Bhaijaan Legacy  ,(2010/I),"Action, Adventure, Comedy",7.7,"74,161",$15.98M,Kabir Khan,Bollywood,186 min,UA
+  Gully Boy Reloaded  ,(2011/I),"Drama, Musical",8.8,"52,842",$11.82M,Zoya Akhtar,Bollywood,148 min,UA
+  Gully Boy Reloaded  ,(2007),"Drama, Musical",8.5,"34,893",N/A,Zoya Akhtar,Bollywood,156 min,UA
+  Yeh Jawaani Hai Deewani Vengeance  ,(2020),"Comedy, Drama, Romance",7.4,"49,600",$11.31M,Ayan Mukerji,Bollywood,162 min,UA
+  Swades Chapter 3  ,(I) (2022),Drama,9.2,"58,826",$2.79M,Ashutosh Gowariker,Bollywood,173 min,U
+  Yeh Jawaani Hai Deewani III  ,(2016),"Comedy, Drama, Romance",7.2,"109,501",$3.57M,Ayan Mukerji,Bollywood,179 min,UA
+  Queen Vengeance  ,(2025/I),"Comedy, Drama",7.4,"48,201",N/A,Vikas Bahl,Bollywood,163 min,UA
+  Andhadhun III  ,(I) (2024),"Comedy, Crime, Music",7.8,"136,935",,Sriram Raghavan,Bollywood,164 min,UA
+  Bhaag Milkha Bhaag Returns  ,(2009/I),"Biography, Drama, Sports",9.0,"139,211",$0.84M,Rakeysh Omprakash Mehra,Bollywood,213 min,UA
+  Gangubai Kathiawadi 3  ,(2012/I),"Biography, Crime, Drama",7.8,"47,814",,Sanjay Leela Bhansali,Bollywood,144 min,UA
+  Chak De! India Returns  ,(II) (2017),"Drama, Family, Sports",8.5,"148,910",$1.78M,Shimit Amin,Bollywood,154 min,U
+  Gangs of Wasseypur Returns  ,(II) (2019),"Action, Comedy, Crime",8.9,"160,884",$1.46M,Anurag Kashyap,Bollywood,362 min,A
+  Jawan III  ,(I) (2015),"Action, Thriller",nan,"135,080",unknown,Atlee,Bollywood,185 min,UA
+  Chak De! India Chapter 3  ,(2005),"Drama, Family, Sports",9.0,"60,431",$3.28M,Shimit Amin,Bollywood,145 min,U
+  Haider Reloaded  ,(II) (2025),"Action, Drama, Thriller",7.3,"104,449",unknown,Vishal Bhardwaj,Bollywood,151 min,UA
+  Uri: The Surgical Strike Reloaded  ,(2006/I),"Action, Drama, History",8.5,"103,283",$5.98M,Aditya Dhar,Bollywood,115 min,UA
+  PK Chapter 3  ,(I) (2007),"Comedy, Drama, Sci-Fi",8.3,"236,645",$3.41M,Rajkumar Hirani,Bollywood,143 min,UA
+  Gangs of Wasseypur Chapter 2  ,(2009/I),"Action, Comedy, Crime",7.3,"102,087",$0.29M,Anurag Kashyap,Bollywood,297 min,A
+  Dilwale Dulhania Le Jayenge Chapter 2  ,(I) (2009),"Drama, Romance",7.1,"96,835",$1.86M,Aditya Chopra,Bollywood,177 min,U
+  My Name Is Khan Reloaded  ,(2018/I),Drama,8.6,"66,153",N/A,Karan Johar,Bollywood,170 min,UA
+  Zindagi Na Milegi Dobara 3  ,(I) (2009),"Comedy, Drama, Musical",7.8,"50,109",$5.95M,Zoya Akhtar,Bollywood,161 min,UA
+  Gangubai Kathiawadi Part 2  ,(II) (2026),"Biography, Crime, Drama",7.2,"49,363",,Sanjay Leela Bhansali,Bollywood,139 min,UA
+  Bhaag Milkha Bhaag II  ,(2020/I),"Biography, Drama, Sports",7.4,"87,456",$2.24M,Rakeysh Omprakash Mehra,Bollywood,221 min,UA
+  Haider 3  ,(2009/I),"Action, Drama, Thriller",8.7,"74,391",$1.72M,Vishal Bhardwaj,Bollywood,176 min,UA
+  Dookudu  ,(2007),"Action, Comedy",7.6,"6,768",N/A,Srinu Vaitla,Tollywood,200 min,UA
+  Magadheera  ,(2025/I),"Action, Drama, Fantasy",7.5,"27,585",$3.85M,S.S. Rajamouli,Tollywood,142 min,UA
+  RRR  ,(I) (2021),"Action, Drama, Sci-Fi",8.7,"117,290",unknown,S.S. Rajamouli,Tollywood,197 min,UA
+  Pokiri  ,(2025),"Action, Crime, Thriller",7.6,"21,968",$0.76M,Puri Jagannadh,Tollywood,146 min,UA
+  Pushpa: The Rise  ,(2019),"Action, Crime, Drama",7.2,"80,627",$1.99M,Sukumar,Tollywood,193 min,UA
+  Arjun Reddy  ,(II) (2020),"Drama, Romance",8.0,"58,606",$1.13M,Sandeep Reddy Vanga,Tollywood,154 min,A
+  Eega  ,(2008),"Action, Comedy, Fantasy",7.4,"34,319",$1.11M,S.S. Rajamouli,Tollywood,172 min,UA
+  Hanu-Man  ,(II) (2019),"Action, Adventure, Fantasy",7.1,"39,358",N/A,Prasanth Varma,Tollywood,142 min,UA
+  Salaar: Part 1 - Ceasefire  ,(2026),"Action, Drama, Thriller",6.0,"75,794",N/A,Prashanth Neel,Tollywood,157 min,A
+  Geetha Govindam  ,(I) (2009),"Comedy, Drama, Romance",8.6,"32,152",$3.32M,Parasuram,Tollywood,155 min,UA
+  Rangasthalam  ,(2012/I),"Action, Drama",9.2,"27,437",$3.32M,Sukumar,Tollywood,151 min,UA
+  Baahubali 2: The Conclusion  ,(I) (2010),"Action, Drama, Fantasy",8.8,"207,072",$9.82M,S.S. Rajamouli,Tollywood,164 min,UA
+  Janatha Garage  ,(II) (2014),"Action, Drama",6.4,"13,036",,Koratala Siva,Tollywood,166 min,UA
+  Kalki 2898 AD  ,(2012/I),"Action, Sci-Fi",7.2,"146,833",$43.59M,Nag Ashwin,Tollywood,197 min,UA
+  Gabbar Singh  ,(I) (2012),"Action, Comedy",6.1,"10,035",,Harish Shankar,Tollywood,161 min,UA
+  Baahubali: The Beginning  ,(2015),"Action, Drama, Fantasy",8.5,"133,051",$7.69M,S.S. Rajamouli,Tollywood,140 min,UA
+  Sarileru Neekevvaru  ,(2020),"Action, Comedy, Drama",7.1,"9,989",N/A,Anil Ravipudi,Tollywood,197 min,UA
+  Sita Ramam  ,(II) (2018),"Drama, Mystery, Romance",8.5,"97,310",$6.33M,Hanu Raghavapudi,Tollywood,171 min,U
+  Salaar: Part 1 - Ceasefire  ,(2023),"Action, Drama, Thriller",6.4,"116,779",,Prashanth Neel,Tollywood,199 min,A
+  Geetha Govindam  ,(II) (2015),"Comedy, Drama, Romance",7.6,"15,307",$0.8M,Parasuram,Tollywood,157 min,UA
+  Pushpa: The Rise  ,(2010/I),"Action, Crime, Drama",7.5,"55,488",$9.29M,Sukumar,Tollywood,158 min,UA
+  Eega  ,(2008),"Action, Comedy, Fantasy",7.0,"45,872",$2.4M,S.S. Rajamouli,Tollywood,118 min,UA
+  Rangasthalam  ,(2009),"Action, Drama",8.8,"54,672",N/A,Sukumar,Tollywood,191 min,UA
+  Arjun Reddy  ,(2005/I),"Drama, Romance",8.7,"46,687",$0.83M,Sandeep Reddy Vanga,Tollywood,153 min,A
+  Pushpa: The Rise  ,(2005),"Action, Crime, Drama",8.3,"98,692",,Sukumar,Tollywood,169 min,UA
+  Athadu  ,(II) (2007),"Action, Comedy, Crime",9.0,"11,024",$0.42M,Trivikram Srinivas,Tollywood,185 min,UA
+  RRR  ,(2015),"Action, Drama, Sci-Fi",6.9,"190,638",unknown,S.S. Rajamouli,Tollywood,182 min,UA
+  Hanu-Man  ,(2005/I),"Action, Adventure, Fantasy",8.4,"16,702",N/A,Prasanth Varma,Tollywood,143 min,UA
+  Ala Vaikunthapurramuloo  ,(I) (2006),"Action, Comedy, Drama",7.6,"31,208",$3.35M,Trivikram Srinivas,Tollywood,136 min,UA
+  Sarileru Neekevvaru  ,(I) (2011),"Action, Comedy, Drama",6.5,"23,845",$5.05M,Anil Ravipudi,Tollywood,188 min,UA
+  Dasara Chapter 3  ,(II) (2016),"Action, Drama",6.5,"6,542",N/A,Srikanth Odela,Tollywood,126 min,UA
+  Eega Part 2  ,(II) (2020),"Action, Comedy, Fantasy",8.2,"59,982",$0.63M,S.S. Rajamouli,Tollywood,154 min,UA
+  Attarintiki Daredi Part 2  ,(2012/I),"Action, Comedy, Drama",7.0,"24,623",$1.24M,Trivikram Srinivas,Tollywood,176 min,UA
+  Bommarillu 3  ,(2023),"Comedy, Drama, Romance",8.6,"11,302",$0.27M,Bhaskar,Tollywood,200 min,U
+  Gabbar Singh Chapter 3  ,(II) (2022),"Action, Comedy",6.5,"5,012",unknown,Harish Shankar,Tollywood,135 min,UA
+  Baahubali: The Beginning 3  ,(I) (2024),"Action, Drama, Fantasy",8.6,"126,392",,S.S. Rajamouli,Tollywood,130 min,UA
+  Bommarillu Reloaded  ,(II) (2008),"Comedy, Drama, Romance",9.1,"11,664",$0.55M,Bhaskar,Tollywood,142 min,U
+  Ala Vaikunthapurramuloo Reloaded  ,(2018/I),"Action, Comedy, Drama",7.6,"19,032",$4.56M,Trivikram Srinivas,Tollywood,190 min,UA
+  Jersey Vengeance  ,(2010/I),"Drama, Sports",8.2,"36,785",unknown,Gowtam Tinnanuri,Tollywood,128 min,U
+  Salaar: Part 1 - Ceasefire Chapter 2  ,(2023),"Action, Drama, Thriller",5.9,"58,639",$17.36M,Prashanth Neel,Tollywood,184 min,A
+  Hanu-Man Reloaded  ,(2015),"Action, Adventure, Fantasy",7.5,"43,418",N/A,Prasanth Varma,Tollywood,178 min,UA
+  Chatrapathi 3  ,(2019),"Action, Drama",7.2,"12,240",,S.S. Rajamouli,Tollywood,187 min,UA
+  Baahubali 2: The Conclusion Chapter 2  ,(2019/I),"Action, Drama, Fantasy",9.1,"191,816",$26.71M,S.S. Rajamouli,Tollywood,170 min,UA
+  Hanu-Man Vengeance  ,(I) (2025),"Action, Adventure, Fantasy",7.3,"13,432",$5.92M,Prasanth Varma,Tollywood,146 min,UA
+  RRR 3  ,(2010/I),"Action, Drama, Sci-Fi",7.1,"98,000",$42.64M,S.S. Rajamouli,Tollywood,174 min,UA
+  Fidaa Chapter 3  ,(2005/I),"Comedy, Drama, Romance",8.4,"5,979",$0.51M,Sekhar Kammula,Tollywood,120 min,U
+  Mahanati Chapter 2  ,(II) (2022),"Biography, Drama",8.8,"20,814",,Nag Ashwin,Tollywood,182 min,U
+  Ala Vaikunthapurramuloo Part 2  ,(2016),"Action, Comedy, Drama",N/A,"23,545",$4.03M,Trivikram Srinivas,Tollywood,143 min,UA
+  Athadu III  ,(2007/I),"Action, Comedy, Crime",8.9,"17,325",,Trivikram Srinivas,Tollywood,202 min,UA
+  Athadu Legacy  ,(I) (2017),"Action, Comedy, Crime",7.9,"19,299",N/A,Trivikram Srinivas,Tollywood,158 min,UA
+  Jersey III  ,(2023),"Drama, Sports",7.9,"37,072",unknown,Gowtam Tinnanuri,Tollywood,150 min,U
+  Dookudu Vengeance  ,(2012),"Action, Comedy",8.1,"22,458",unknown,Srinu Vaitla,Tollywood,182 min,UA
+  Salaar: Part 1 - Ceasefire II  ,(II) (2020),"Action, Drama, Thriller",5.7,"111,249",$14.74M,Prashanth Neel,Tollywood,203 min,A
+  Pokiri Vengeance  ,(2009),"Action, Crime, Thriller",8.9,"22,297",$0.6M,Puri Jagannadh,Tollywood,144 min,UA
+  Baahubali 2: The Conclusion Chapter 2  ,(2007/I),"Action, Drama, Fantasy",7.6,"182,053",unknown,S.S. Rajamouli,Tollywood,150 min,UA
+  Indra Returns  ,(2007/I),"Action, Drama",nan,"7,968",$1.36M,B. Gopal,Tollywood,200 min,U
+  Kalki 2898 AD Vengeance  ,(2021/I),"Action, Sci-Fi",6.7,"54,334",$34.09M,Nag Ashwin,Tollywood,214 min,UA
+  Pushpa: The Rise Vengeance  ,(II) (2008),"Action, Crime, Drama",8.3,"91,010",$1150.0M,Sukumar,Tollywood,190 min,UA
+  Hanu-Man Part 2  ,(II) (2010),"Action, Adventure, Fantasy",7.8,"31,402",$7.48M,Prasanth Varma,Tollywood,151 min,UA
+  Bommarillu II  ,(2006/I),"Comedy, Drama, Romance",9.0,"20,301",,Bhaskar,Tollywood,157 min,U
+  Janatha Garage Returns  ,(I) (2012),"Action, Drama",6.8,"17,771",$1.52M,Koratala Siva,Tollywood,176 min,UA
+  RRR II  ,(I) (2019),"Action, Drama, Sci-Fi",8.6,"177,720",$24.57M,S.S. Rajamouli,Tollywood,177 min,UA
+  Gabbar Singh Reloaded  ,(II) (2007),"Action, Comedy",7.5,"9,945",$2.4M,Harish Shankar,Tollywood,157 min,UA
+  Fidaa II  ,(I) (2006),"Comedy, Drama, Romance",6.6,"4,606",N/A,Sekhar Kammula,Tollywood,130 min,U
+  Sita Ramam Chapter 2  ,(2025),"Drama, Mystery, Romance",9.0,"51,774",$5.72M,Hanu Raghavapudi,Tollywood,193 min,U
+  Dasara 3  ,(I) (2016),"Action, Drama",nan,"7,547",$0.44M,Srikanth Odela,Tollywood,126 min,UA
+  Dookudu II  ,(I) (2012),"Action, Comedy",7.8,"11,747",N/A,Srinu Vaitla,Tollywood,194 min,UA
+  Pokiri Part 2  ,(I) (2020),"Action, Crime, Thriller",8.3,"26,632",,Puri Jagannadh,Tollywood,170 min,UA
+  Bommarillu III  ,(2018/I),"Comedy, Drama, Romance",8.9,"13,073",,Bhaskar,Tollywood,182 min,U
+  Geetha Govindam Vengeance  ,(2008),"Comedy, Drama, Romance",7.7,"26,883",$1.57M,Parasuram,Tollywood,150 min,UA
+  Magadheera Returns  ,(2020),"Action, Drama, Fantasy",7.4,"22,868",,S.S. Rajamouli,Tollywood,150 min,UA
+  Fidaa III  ,(I) (2011),"Comedy, Drama, Romance",7.5,"6,883",unknown,Sekhar Kammula,Tollywood,137 min,U
+  Ala Vaikunthapurramuloo Part 2  ,(2025/I),"Action, Comedy, Drama",8.3,"22,228",,Trivikram Srinivas,Tollywood,178 min,UA
+  Salaar: Part 1 - Ceasefire II  ,(I) (2015),"Action, Drama, Thriller",6.9,"87,448",$25.27M,Prashanth Neel,Tollywood,165 min,A
+  Arjun Reddy Legacy  ,(II) (2010),"Drama, Romance",7.2,"24,217",unknown,Sandeep Reddy Vanga,Tollywood,201 min,A
+  Pokiri 3  ,(2025),"Action, Crime, Thriller",7.4,"15,864",$1.15M,Puri Jagannadh,Tollywood,188 min,UA
+  Salaar: Part 1 - Ceasefire III  ,(2019),"Action, Drama, Thriller",6.4,"107,975",$25.36M,Prashanth Neel,Tollywood,144 min,A
+  Sita Ramam Returns  ,(2026/I),"Drama, Mystery, Romance",8.7,"67,179",$2.69M,Hanu Raghavapudi,Tollywood,195 min,U
+  Salaar: Part 1 - Ceasefire Chapter 3  ,(II) (2009),"Action, Drama, Thriller",7.2,"46,232",,Prashanth Neel,Tollywood,184 min,A
+  Athadu Part 2  ,(2005/I),"Action, Comedy, Crime",7.7,"29,552",N/A,Trivikram Srinivas,Tollywood,174 min,UA
+  RRR Reloaded  ,(2024/I),"Action, Drama, Sci-Fi",8.1,"176,814",$19.36M,S.S. Rajamouli,Tollywood,152 min,UA
+  Srimanthudu Part 2  ,(I) (2015),"Action, Drama",6.5,"6,074",$0.82M,Koratala Siva,Tollywood,187 min,U
+  Pushpa: The Rise Chapter 2  ,(II) (2021),"Action, Crime, Drama",6.9,"86,788",,Sukumar,Tollywood,175 min,UA
+  Sita Ramam 3  ,(I) (2018),"Drama, Mystery, Romance",8.3,"111,124",N/A,Hanu Raghavapudi,Tollywood,141 min,U
+  Gabbar Singh Chapter 2  ,(I) (2005),"Action, Comedy",6.5,"17,795",N/A,Harish Shankar,Tollywood,158 min,UA
+  Srimanthudu Part 2  ,(II) (2017),"Action, Drama",8.0,"17,216",$0.39M,Koratala Siva,Tollywood,137 min,U
+  Baahubali 2: The Conclusion Returns  ,(2018/I),"Action, Drama, Fantasy",8.0,"138,696",$14.41M,S.S. Rajamouli,Tollywood,180 min,UA
+  Magadheera Chapter 2  ,(2026),"Action, Drama, Fantasy",8.0,"22,624",$1.47M,S.S. Rajamouli,Tollywood,187 min,UA
+  Chatrapathi Vengeance  ,(II) (2008),"Action, Drama",6.9,"9,231",N/A,S.S. Rajamouli,Tollywood,186 min,UA
+  Mahanati 3  ,(II) (2018),"Biography, Drama",7.8,"29,088",$1.73M,Nag Ashwin,Tollywood,175 min,U
+  Baahubali: The Beginning Returns  ,(2008/I),"Action, Drama, Fantasy",7.3,"79,390",$15.32M,S.S. Rajamouli,Tollywood,133 min,UA
+  Jersey Chapter 3  ,(II) (2014),"Drama, Sports",8.5,"15,593",N/A,Gowtam Tinnanuri,Tollywood,182 min,U
+  Pokiri 3  ,(2018),"Action, Crime, Thriller",7.2,"31,108",N/A,Puri Jagannadh,Tollywood,173 min,UA
+  Srimanthudu Chapter 3  ,(II) (2024),"Action, Drama",8.3,"7,673",$0.71M,Koratala Siva,Tollywood,156 min,U
+  Eega Chapter 2  ,(2020/I),"Action, Comedy, Fantasy",8.0,"50,860",unknown,S.S. Rajamouli,Tollywood,158 min,UA
+  Janatha Garage Reloaded  ,(2008/I),"Action, Drama",8.0,"13,464",$1.93M,Koratala Siva,Tollywood,169 min,UA
+  Kalki 2898 AD Part 2  ,(I) (2026),"Action, Sci-Fi",7.5,"92,413",$27.12M,Nag Ashwin,Tollywood,149 min,UA
+  Baahubali: The Beginning Legacy  ,(I) (2023),"Action, Drama, Fantasy",9.0,"188,095",unknown,S.S. Rajamouli,Tollywood,170 min,UA
+  Sarileru Neekevvaru II  ,(II) (2020),"Action, Comedy, Drama",6.5,"20,469",unknown,Anil Ravipudi,Tollywood,195 min,UA
+  Baahubali: The Beginning Reloaded  ,(2021/I),"Action, Drama, Fantasy",8.7,"225,515",,S.S. Rajamouli,Tollywood,147 min,UA
+  Eega Part 2  ,(I) (2021),"Action, Comedy, Fantasy",7.8,"32,038",$0.56M,S.S. Rajamouli,Tollywood,141 min,UA
+  RRR Chapter 3  ,(II) (2019),"Action, Drama, Sci-Fi",7.0,"199,369",$8.37M,S.S. Rajamouli,Tollywood,180 min,UA
+  Baahubali: The Beginning Returns  ,(II) (2024),"Action, Drama, Fantasy",8.8,"167,937",$10.42M,S.S. Rajamouli,Tollywood,148 min,UA
+  Attarintiki Daredi II  ,(II) (2019),"Action, Comedy, Drama",7.4,"20,014",$3.32M,Trivikram Srinivas,Tollywood,184 min,UA
+  Dookudu II  ,(II) (2005),"Action, Comedy",7.1,"18,856",$2.13M,Srinu Vaitla,Tollywood,161 min,UA
+  Fidaa Reloaded  ,(I) (2020),"Comedy, Drama, Romance",8.1,"12,910",,Sekhar Kammula,Tollywood,149 min,U
+  Indra Chapter 2  ,(2011/I),"Action, Drama",8.0,"4,715",,B. Gopal,Tollywood,140 min,U
+  Pokiri Vengeance  ,(2008/I),"Action, Crime, Thriller",7.9,"26,295",$2.32M,Puri Jagannadh,Tollywood,130 min,UA
+  Dasara Chapter 2  ,(2023/I),"Action, Drama",7.5,"14,208",$1.73M,Srikanth Odela,Tollywood,135 min,UA
+  Pushpa: The Rise Chapter 2  ,(II) (2026),"Action, Crime, Drama",7.6,"53,849",$8.87M,Sukumar,Tollywood,197 min,UA
+  Rangasthalam III  ,(I) (2019),"Action, Drama",7.7,"39,306",$3.03M,Sukumar,Tollywood,203 min,UA
+  Rangasthalam Legacy  ,(I) (2025),"Action, Drama",7.8,"40,215",,Sukumar,Tollywood,209 min,UA
+  Bommarillu Reloaded  ,(II) (2021),"Comedy, Drama, Romance",8.6,"18,052",$0.75M,Bhaskar,Tollywood,200 min,U
+  Pokiri Legacy  ,(2014/I),"Action, Crime, Thriller",8.6,"24,397",N/A,Puri Jagannadh,Tollywood,133 min,UA
+  Eega Reloaded  ,(II) (2014),"Action, Comedy, Fantasy",7.0,"17,791",$0.94M,S.S. Rajamouli,Tollywood,147 min,UA
+  Karthikeya 2 Returns  ,(I) (2024),"Action, Adventure, Mystery",8.4,"20,128",unknown,Chandoo Mondeti,Tollywood,137 min,UA
+  Indra Chapter 2  ,(2017/I),"Action, Drama",8.3,"11,782",unknown,B. Gopal,Tollywood,141 min,U
+  Mahanati Vengeance  ,(I) (2019),"Biography, Drama",9.3,"34,252",$1.87M,Nag Ashwin,Tollywood,180 min,U
+  Dookudu II  ,(2014/I),"Action, Comedy",6.8,"19,811",N/A,Srinu Vaitla,Tollywood,185 min,UA
+  Baahubali 2: The Conclusion Chapter 2  ,(II) (2013),"Action, Drama, Fantasy",7.5,"144,477",,S.S. Rajamouli,Tollywood,164 min,UA
+  Baahubali 2: The Conclusion Reloaded  ,(2015),"Action, Drama, Fantasy",8.7,"150,995",$22.48M,S.S. Rajamouli,Tollywood,186 min,UA
+  RRR 3  ,(I) (2021),"Action, Drama, Sci-Fi",8.7,"204,945",$10.59M,S.S. Rajamouli,Tollywood,190 min,UA
+  Srimanthudu II  ,(II) (2011),"Action, Drama",7.2,"11,284",$1.77M,Koratala Siva,Tollywood,161 min,U
+  Dookudu Part 2  ,(II) (2008),"Action, Comedy",7.3,"24,137",$2.37M,Srinu Vaitla,Tollywood,201 min,UA
+  Rangasthalam Chapter 2  ,(2008/I),"Action, Drama",7.9,"44,406",unknown,Sukumar,Tollywood,202 min,UA
+  Gabbar Singh Legacy  ,(2019/I),"Action, Comedy",6.2,"16,626",unknown,Harish Shankar,Tollywood,127 min,UA
+  Dookudu Legacy  ,(2022),"Action, Comedy",7.7,"10,610",$1.05M,Srinu Vaitla,Tollywood,182 min,UA
+  Mahanati Legacy  ,(2018),"Biography, Drama",9.0,"16,073",$0.96M,Nag Ashwin,Tollywood,147 min,U
+  Gabbar Singh III  ,(2022),"Action, Comedy",7.2,"7,573",,Harish Shankar,Tollywood,150 min,UA
+  Rangasthalam Part 2  ,(2017),"Action, Drama",8.5,"40,939",$4.21M,Sukumar,Tollywood,185 min,UA
+  RRR 3  ,(2021),"Action, Drama, Sci-Fi",7.4,"244,610",$15.37M,S.S. Rajamouli,Tollywood,218 min,UA
+  Attarintiki Daredi Part 2  ,(I) (2020),"Action, Comedy, Drama",7.4,"9,864",unknown,Trivikram Srinivas,Tollywood,156 min,UA
+  Magadheera 3  ,(I) (2005),"Action, Drama, Fantasy",6.9,"12,688",$3.85M,S.S. Rajamouli,Tollywood,195 min,UA
+  Chatrapathi 3  ,(2011/I),"Action, Drama",8.5,"24,880",N/A,S.S. Rajamouli,Tollywood,149 min,UA
+  Mahanati Returns  ,(2010),"Biography, Drama",9.2,"41,768",$1.24M,Nag Ashwin,Tollywood,180 min,U
+  RRR III  ,(I) (2008),"Action, Drama, Sci-Fi",8.3,"196,925",N/A,S.S. Rajamouli,Tollywood,199 min,UA
+  Magadheera Vengeance  ,(I) (2007),"Action, Drama, Fantasy",7.3,"29,399",$2.48M,S.S. Rajamouli,Tollywood,171 min,UA
+  Srimanthudu 3  ,(I) (2018),"Action, Drama",6.5,"10,431",unknown,Koratala Siva,Tollywood,172 min,U
+  Srimanthudu Reloaded  ,(II) (2026),"Action, Drama",8.3,"14,331",,Koratala Siva,Tollywood,162 min,U
+  Athadu Vengeance  ,(II) (2007),"Action, Comedy, Crime",8.9,"12,780",$0.51M,Trivikram Srinivas,Tollywood,202 min,UA
+  RRR Part 2  ,(2021),"Action, Drama, Sci-Fi",8.4,"218,936",$12.68M,S.S. Rajamouli,Tollywood,152 min,UA
+  Fidaa Legacy  ,(I) (2020),"Comedy, Drama, Romance",7.2,"6,679",$1.6M,Sekhar Kammula,Tollywood,131 min,U
+  Sita Ramam Returns  ,(II) (2017),"Drama, Mystery, Romance",8.6,"89,641",$9.42M,Hanu Raghavapudi,Tollywood,170 min,U
+  Sita Ramam Reloaded  ,(I) (2019),"Drama, Mystery, Romance",8.0,"115,384",$11.07M,Hanu Raghavapudi,Tollywood,178 min,U
+  Srimanthudu Part 2  ,(2012/I),"Action, Drama",7.0,"10,758",unknown,Koratala Siva,Tollywood,143 min,U
+  Srimanthudu Chapter 2  ,(2020/I),"Action, Drama",8.3,"6,718",$0.52M,Koratala Siva,Tollywood,193 min,U
+  Eega III  ,(I) (2023),"Action, Comedy, Fantasy",7.5,"32,033",$3.0M,S.S. Rajamouli,Tollywood,120 min,UA
+  Indra II  ,(2021/I),"Action, Drama",7.1,"10,809",$1.28M,B. Gopal,Tollywood,179 min,U
+  Ala Vaikunthapurramuloo Chapter 3  ,(I) (2010),"Action, Comedy, Drama",6.5,"36,630",N/A,Trivikram Srinivas,Tollywood,140 min,UA
+  Attarintiki Daredi Returns  ,(I) (2026),"Action, Comedy, Drama",7.1,"13,934",unknown,Trivikram Srinivas,Tollywood,168 min,UA
+  Arjun Reddy Chapter 2  ,(I) (2005),"Drama, Romance",7.1,"47,608",unknown,Sandeep Reddy Vanga,Tollywood,182 min,A
+  Ala Vaikunthapurramuloo Part 2  ,(II) (2010),"Action, Comedy, Drama",8.1,"31,874",unknown,Trivikram Srinivas,Tollywood,171 min,UA
+  Chatrapathi III  ,(I) (2007),"Action, Drama",7.6,"27,848",$0.46M,S.S. Rajamouli,Tollywood,190 min,UA
+  Gabbar Singh Vengeance  ,(II) (2010),"Action, Comedy",6.4,"13,755",$2.67M,Harish Shankar,Tollywood,126 min,UA
+  Ala Vaikunthapurramuloo Returns  ,(I) (2005),"Action, Comedy, Drama",7.3,"46,600",$5.32M,Trivikram Srinivas,Tollywood,169 min,UA
+  Fidaa Vengeance  ,(2024),"Comedy, Drama, Romance",8.3,"10,377",$0.39M,Sekhar Kammula,Tollywood,152 min,U
+  Dasara Part 2  ,(2026/I),"Action, Drama",6.7,"8,972",unknown,Srikanth Odela,Tollywood,151 min,UA
+  Hanu-Man Chapter 2  ,(2016),"Action, Adventure, Fantasy",7.9,"19,399",$14.89M,Prasanth Varma,Tollywood,131 min,UA
+  Dasara Chapter 2  ,(I) (2013),"Action, Drama",nan,"13,731",unknown,Srikanth Odela,Tollywood,132 min,UA
+  Mahanati 3  ,(II) (2018),"Biography, Drama",7.7,"25,060",$0.8M,Nag Ashwin,Tollywood,179 min,U
+  Kalki 2898 AD III  ,(2026/I),"Action, Sci-Fi",8.0,"83,988",$29.17M,Nag Ashwin,Tollywood,171 min,UA
+  Eega III  ,(II) (2023),"Action, Comedy, Fantasy",8.2,"32,915",unknown,S.S. Rajamouli,Tollywood,122 min,UA
+  Gabbar Singh Reloaded  ,(I) (2008),"Action, Comedy",7.1,"15,112",$2.74M,Harish Shankar,Tollywood,164 min,UA
+  Geetha Govindam Part 2  ,(I) (2007),"Comedy, Drama, Romance",7.6,"25,206",,Parasuram,Tollywood,126 min,UA
+  Baahubali 2: The Conclusion Chapter 2  ,(II) (2017),"Action, Drama, Fantasy",8.6,"146,601",$50.8M,S.S. Rajamouli,Tollywood,176 min,UA
+  Mahanati Legacy  ,(I) (2014),"Biography, Drama",N/A,"30,783",$0.74M,Nag Ashwin,Tollywood,153 min,U
+  Athadu Part 2  ,(2010),"Action, Comedy, Crime",9.2,"30,051",,Trivikram Srinivas,Tollywood,168 min,UA
+  Baahubali: The Beginning Returns  ,(II) (2007),"Action, Drama, Fantasy",8.5,"167,333",$8.42M,S.S. Rajamouli,Tollywood,179 min,UA
+  Mahanati Chapter 3  ,(2017),"Biography, Drama",8.0,"24,435",N/A,Nag Ashwin,Tollywood,177 min,U
+  Pushpa: The Rise Legacy  ,(II) (2013),"Action, Crime, Drama",8.0,"97,454",$7.61M,Sukumar,Tollywood,197 min,UA
+  Karthikeya 2 Chapter 3  ,(2023),"Action, Adventure, Mystery",7.9,"13,300",N/A,Chandoo Mondeti,Tollywood,160 min,UA
+  Rangasthalam Chapter 2  ,(2016),"Action, Drama",8.8,"25,060",,Sukumar,Tollywood,191 min,UA
+  RRR Legacy  ,(2010/I),"Action, Drama, Sci-Fi",7.4,"132,455",$11.51M,S.S. Rajamouli,Tollywood,205 min,UA
+  Mahanati Chapter 3  ,(I) (2011),"Biography, Drama",9.0,"39,800",N/A,Nag Ashwin,Tollywood,200 min,U
+  Srimanthudu Reloaded  ,(2008),"Action, Drama",8.3,"18,164",$1.76M,Koratala Siva,Tollywood,180 min,U
+  Baahubali 2: The Conclusion Chapter 3  ,(II) (2016),"Action, Drama, Fantasy",8.2,"207,694",$53.44M,S.S. Rajamouli,Tollywood,166 min,UA
+  Indra Legacy  ,(2013/I),"Action, Drama",6.8,"8,189",,B. Gopal,Tollywood,170 min,U
+  Sita Ramam 3  ,(I) (2017),"Drama, Mystery, Romance",8.5,"40,833",$4.38M,Hanu Raghavapudi,Tollywood,130 min,U
+  Geetha Govindam Vengeance  ,(II) (2008),"Comedy, Drama, Romance",7.4,"32,269",,Parasuram,Tollywood,127 min,UA
+  Kalki 2898 AD 3  ,(I) (2016),"Action, Sci-Fi",7.5,"61,184",$23.76M,Nag Ashwin,Tollywood,206 min,UA
+  Arjun Reddy Vengeance  ,(I) (2009),"Drama, Romance",8.6,"55,342",$2.7M,Sandeep Reddy Vanga,Tollywood,207 min,A
+  Gabbar Singh Reloaded  ,(2020),"Action, Comedy",6.5,"11,244",$3.63M,Harish Shankar,Tollywood,154 min,UA
+  Gabbar Singh Chapter 3  ,(II) (2014),"Action, Comedy",7.2,"12,165",unknown,Harish Shankar,Tollywood,132 min,UA
+  Eega Chapter 3  ,(2025),"Action, Comedy, Fantasy",7.6,"30,059",unknown,S.S. Rajamouli,Tollywood,148 min,UA
+  Srimanthudu Part 2  ,(2018),"Action, Drama",7.2,"18,232",$1.67M,Koratala Siva,Tollywood,172 min,U
+  Dookudu III  ,(II) (2016),"Action, Comedy",7.7,"16,006",$3.24M,Srinu Vaitla,Tollywood,161 min,UA
+  Athadu Reloaded  ,(II) (2010),"Action, Comedy, Crime",8.0,"25,532",N/A,Trivikram Srinivas,Tollywood,145 min,UA
+  Rangasthalam 3  ,(II) (2025),"Action, Drama",8.8,"39,426",,Sukumar,Tollywood,199 min,UA
+  Chatrapathi Vengeance  ,(2021/I),"Action, Drama",7.5,"10,861",unknown,S.S. Rajamouli,Tollywood,150 min,UA
+  Chatrapathi Returns  ,(I) (2011),"Action, Drama",7.5,"9,006",$0.95M,S.S. Rajamouli,Tollywood,138 min,UA
+  Sita Ramam Returns  ,(II) (2008),"Drama, Mystery, Romance",8.8,"37,588",$5.14M,Hanu Raghavapudi,Tollywood,145 min,U
+  Karthikeya 2 Reloaded  ,(I) (2009),"Action, Adventure, Mystery",7.0,"22,429",$3.06M,Chandoo Mondeti,Tollywood,148 min,UA
+  Dasara III  ,(2022/I),"Action, Drama",6.0,"16,343",$1.52M,Srikanth Odela,Tollywood,153 min,UA
+  Fidaa Vengeance  ,(II) (2018),"Comedy, Drama, Romance",8.3,"9,779",N/A,Sekhar Kammula,Tollywood,139 min,U
+  Eega Reloaded  ,(2014),"Action, Comedy, Fantasy",,"51,692",$1.35M,S.S. Rajamouli,Tollywood,143 min,UA
+  Dookudu Chapter 3  ,(2014),"Action, Comedy",7.9,"22,060",$2.94M,Srinu Vaitla,Tollywood,173 min,UA
+  Fidaa Legacy  ,(2018/I),"Comedy, Drama, Romance",7.0,"12,579",$1.78M,Sekhar Kammula,Tollywood,127 min,U
+  Athadu II  ,(II) (2021),"Action, Comedy, Crime",7.8,"29,059",$0.71M,Trivikram Srinivas,Tollywood,199 min,UA
+  Magadheera Returns  ,(2025/I),"Action, Drama, Fantasy",nan,"22,705",$1.78M,S.S. Rajamouli,Tollywood,134 min,UA
+  Baahubali: The Beginning Reloaded  ,(II) (2008),"Action, Drama, Fantasy",7.5,"196,599",$6.31M,S.S. Rajamouli,Tollywood,136 min,UA
+  Rangasthalam Chapter 2  ,(2014/I),"Action, Drama",9.4,"33,474",$2.15M,Sukumar,Tollywood,203 min,UA
+  Baahubali 2: The Conclusion III  ,(2017),"Action, Drama, Fantasy",nan,"81,102",$19.7M,S.S. Rajamouli,Tollywood,159 min,UA
+  Jersey Chapter 2  ,(I) (2019),"Drama, Sports",9.1,"13,206",$1.19M,Gowtam Tinnanuri,Tollywood,161 min,U
+  Hanu-Man Chapter 2  ,(II) (2026),"Action, Adventure, Fantasy",8.9,"16,234",$12.48M,Prasanth Varma,Tollywood,161 min,UA
+  Hanu-Man III  ,(II) (2011),"Action, Adventure, Fantasy",8.8,"39,500",N/A,Prasanth Varma,Tollywood,141 min,UA
+  Baahubali: The Beginning Reloaded  ,(2013),"Action, Drama, Fantasy",7.8,"108,079",$12.71M,S.S. Rajamouli,Tollywood,171 min,UA
+  Ala Vaikunthapurramuloo 3  ,(I) (2007),"Action, Comedy, Drama",6.6,"15,927",$5.91M,Trivikram Srinivas,Tollywood,195 min,UA
+  Baahubali 2: The Conclusion 3  ,(I) (2025),"Action, Drama, Fantasy",8.6,"177,155",N/A,S.S. Rajamouli,Tollywood,154 min,UA
+  Athadu 3  ,(I) (2019),"Action, Comedy, Crime",7.2,"19,199",$0.49M,Trivikram Srinivas,Tollywood,142 min,UA
+  Dasara III  ,(2022/I),"Action, Drama",6.1,"6,629",unknown,Srikanth Odela,Tollywood,154 min,UA
+  Kalki 2898 AD Legacy  ,(2010),"Action, Sci-Fi",7.6,"88,055",$32.07M,Nag Ashwin,Tollywood,177 min,UA
+  Sita Ramam Chapter 2  ,(2010),"Drama, Mystery, Romance",8.8,"62,766",$4.43M,Hanu Raghavapudi,Tollywood,134 min,U
+  Attarintiki Daredi Chapter 2  ,(2011/I),"Action, Comedy, Drama",7.8,"10,236",,Trivikram Srinivas,Tollywood,179 min,UA
+  Sita Ramam Returns  ,(I) (2006),"Drama, Mystery, Romance",8.0,"32,814",N/A,Hanu Raghavapudi,Tollywood,136 min,U
+  Attarintiki Daredi Chapter 2  ,(2026/I),"Action, Comedy, Drama",7.4,"21,727",,Trivikram Srinivas,Tollywood,151 min,UA
+  Baahubali: The Beginning II  ,(2025/I),"Action, Drama, Fantasy",8.9,"218,514",$13.77M,S.S. Rajamouli,Tollywood,150 min,UA
+  Fidaa Chapter 2  ,(2016),"Comedy, Drama, Romance",8.1,"7,189",N/A,Sekhar Kammula,Tollywood,162 min,U
+  Mahanati Legacy  ,(2008),"Biography, Drama",9.0,"28,544",unknown,Nag Ashwin,Tollywood,188 min,U
+  Arjun Reddy Legacy  ,(2022/I),"Drama, Romance",8.5,"57,729",$3.18M,Sandeep Reddy Vanga,Tollywood,196 min,A
+  Pushpa: The Rise Reloaded  ,(2010/I),"Action, Crime, Drama",7.6,"74,314",$6.14M,Sukumar,Tollywood,210 min,UA
+  Dasara 3  ,(2016/I),"Action, Drama",7.2,"9,739",$1.55M,Srikanth Odela,Tollywood,159 min,UA
+  Dookudu Legacy  ,(II) (2013),"Action, Comedy",8.3,"15,226",unknown,Srinu Vaitla,Tollywood,138 min,UA
+  Baahubali: The Beginning Legacy  ,(II) (2009),"Action, Drama, Fantasy",7.0,"247,073",,S.S. Rajamouli,Tollywood,128 min,UA
+  Bommarillu III  ,(I) (2022),"Comedy, Drama, Romance",7.4,"13,096",,Bhaskar,Tollywood,160 min,U
+  Jersey III  ,(2014),"Drama, Sports",8.7,"32,486",N/A,Gowtam Tinnanuri,Tollywood,174 min,U
+  Arjun Reddy Chapter 3  ,(2023),"Drama, Romance",8.2,"33,270",$2.78M,Sandeep Reddy Vanga,Tollywood,151 min,A
+  Dookudu 3  ,(2016/I),"Action, Comedy",7.2,"23,422",$1.09M,Srinu Vaitla,Tollywood,180 min,UA
+  Baahubali: The Beginning Chapter 2  ,(II) (2006),"Action, Drama, Fantasy",8.0,"122,371",$8.04M,S.S. Rajamouli,Tollywood,171 min,UA
+  Pokiri Chapter 2  ,(2019),"Action, Crime, Thriller",7.4,"17,758",N/A,Puri Jagannadh,Tollywood,152 min,UA
+  Chatrapathi Part 2  ,(2022/I),"Action, Drama",7.2,"15,369",unknown,S.S. Rajamouli,Tollywood,143 min,UA
+  Dasara II  ,(2020/I),"Action, Drama",7.0,"6,750",$1.83M,Srikanth Odela,Tollywood,140 min,UA
+  Dookudu Chapter 2  ,(2015),"Action, Comedy",6.6,"14,564",N/A,Srinu Vaitla,Tollywood,157 min,UA
+  Baahubali: The Beginning III  ,(II) (2010),"Action, Drama, Fantasy",8.2,"248,154",N/A,S.S. Rajamouli,Tollywood,155 min,UA
+  Jersey II  ,(II) (2026),"Drama, Sports",7.9,"38,225",unknown,Gowtam Tinnanuri,Tollywood,131 min,U
+  Indra Reloaded  ,(2014),"Action, Drama",7.1,"10,238",,B. Gopal,Tollywood,139 min,U
+  Dasara II  ,(II) (2011),"Action, Drama",6.8,"12,193",$1.74M,Srikanth Odela,Tollywood,166 min,UA
+  Fidaa Legacy  ,(II) (2006),"Comedy, Drama, Romance",6.8,"7,408",$1.38M,Sekhar Kammula,Tollywood,117 min,U
+  Baahubali: The Beginning Returns  ,(II) (2017),"Action, Drama, Fantasy",8.3,"233,662",N/A,S.S. Rajamouli,Tollywood,128 min,UA
+  Athadu Chapter 2  ,(2012/I),"Action, Comedy, Crime",8.2,"28,161",$0.8M,Trivikram Srinivas,Tollywood,181 min,UA
+  Mahanati Legacy  ,(2019),"Biography, Drama",7.6,"41,434",,Nag Ashwin,Tollywood,169 min,U
+  Srimanthudu 3  ,(II) (2016),"Action, Drama",7.0,"23,608",$2.24M,Koratala Siva,Tollywood,171 min,U
+  Fidaa Part 2  ,(II) (2022),"Comedy, Drama, Romance",7.0,"8,101",N/A,Sekhar Kammula,Tollywood,119 min,U
+  Pokiri Vengeance  ,(I) (2025),"Action, Crime, Thriller",7.8,"25,827",,Puri Jagannadh,Tollywood,189 min,UA
+  Dasara Reloaded  ,(I) (2011),"Action, Drama",6.9,"12,971",N/A,Srikanth Odela,Tollywood,144 min,UA
+  Sita Ramam Reloaded  ,(I) (2018),"Drama, Mystery, Romance",8.9,"80,835",N/A,Hanu Raghavapudi,Tollywood,166 min,U
+  Pushpa: The Rise Reloaded  ,(I) (2015),"Action, Crime, Drama",8.1,"82,407",$4.54M,Sukumar,Tollywood,172 min,UA
+  Indra III  ,(I) (2009),"Action, Drama",6.6,"4,662",$1.56M,B. Gopal,Tollywood,155 min,U
+  Jersey Vengeance  ,(I) (2012),"Drama, Sports",9.0,"24,933",$0.79M,Gowtam Tinnanuri,Tollywood,160 min,U
+  Bommarillu 3  ,(2010/I),"Comedy, Drama, Romance",8.2,"7,768",N/A,Bhaskar,Tollywood,163 min,U
+  Indra III  ,(I) (2018),"Action, Drama",7.9,"11,894",$0.38M,B. Gopal,Tollywood,201 min,U
+  Janatha Garage Vengeance  ,(II) (2020),"Action, Drama",7.9,"20,145",N/A,Koratala Siva,Tollywood,168 min,UA
+  Chatrapathi 3  ,(2017),"Action, Drama",7.7,"16,483",$0.25M,S.S. Rajamouli,Tollywood,201 min,UA
+  Geetha Govindam Part 2  ,(2022/I),"Comedy, Drama, Romance",7.7,"26,027",,Parasuram,Tollywood,138 min,UA
+  Dookudu III  ,(I) (2019),"Action, Comedy",7.2,"18,456",unknown,Srinu Vaitla,Tollywood,197 min,UA
+  Athadu Chapter 3  ,(2007),"Action, Comedy, Crime",7.6,"24,807",$0.89M,Trivikram Srinivas,Tollywood,167 min,UA
+  Baahubali: The Beginning Reloaded  ,(I) (2019),"Action, Drama, Fantasy",8.8,"79,408",unknown,S.S. Rajamouli,Tollywood,184 min,UA
+  Bommarillu Returns  ,(2007),"Comedy, Drama, Romance",8.6,"15,962",unknown,Bhaskar,Tollywood,162 min,U
+  Sita Ramam Vengeance  ,(2010/I),"Drama, Mystery, Romance",8.7,"33,951",,Hanu Raghavapudi,Tollywood,167 min,U
+  Ala Vaikunthapurramuloo Reloaded  ,(I) (2009),"Action, Comedy, Drama",7.8,"14,424",unknown,Trivikram Srinivas,Tollywood,180 min,UA
+  Athadu Reloaded  ,(I) (2008),"Action, Comedy, Crime",9.1,"9,095",$0.17M,Trivikram Srinivas,Tollywood,174 min,UA
+  Gabbar Singh Part 2  ,(2024/I),"Action, Comedy",6.6,"12,449",$1.97M,Harish Shankar,Tollywood,127 min,UA
+  Jersey Legacy  ,(I) (2013),"Drama, Sports",7.7,"17,337",$0.2M,Gowtam Tinnanuri,Tollywood,182 min,U
+  Attarintiki Daredi Vengeance  ,(II) (2014),"Action, Comedy, Drama",8.1,"8,029",N/A,Trivikram Srinivas,Tollywood,146 min,UA
+  Pokiri Vengeance  ,(I) (2023),"Action, Crime, Thriller",8.9,"30,856",N/A,Puri Jagannadh,Tollywood,136 min,UA
+  Srimanthudu Chapter 2  ,(2007/I),"Action, Drama",8.2,"7,168",$0.57M,Koratala Siva,Tollywood,186 min,U
+  Sarileru Neekevvaru Legacy  ,(I) (2011),"Action, Comedy, Drama",6.4,"9,295",$3.4M,Anil Ravipudi,Tollywood,201 min,UA
+  Bommarillu Vengeance  ,(2014/I),"Comedy, Drama, Romance",8.4,"10,722",$1.19M,Bhaskar,Tollywood,160 min,U
+  Salaar: Part 1 - Ceasefire Chapter 3  ,(2021/I),"Action, Drama, Thriller",N/A,"46,191",$19.7M,Prashanth Neel,Tollywood,208 min,A
+  Karthikeya 2 Returns  ,(2011/I),"Action, Adventure, Mystery",7.7,"15,010",$5.26M,Chandoo Mondeti,Tollywood,120 min,UA
+  Magadheera III  ,(II) (2007),"Action, Drama, Fantasy",7.3,"33,124",$1.34M,S.S. Rajamouli,Tollywood,154 min,UA
+  Salaar: Part 1 - Ceasefire Vengeance  ,(I) (2005),"Action, Drama, Thriller",N/A,"105,044",$14.18M,Prashanth Neel,Tollywood,173 min,A
+  Hanu-Man Reloaded  ,(2025/I),"Action, Adventure, Fantasy",8.8,"28,719",,Prasanth Varma,Tollywood,185 min,UA
+  Sita Ramam III  ,(II) (2023),"Drama, Mystery, Romance",8.7,"31,684",$4.54M,Hanu Raghavapudi,Tollywood,190 min,U
+  RRR Reloaded  ,(2013),"Action, Drama, Sci-Fi",7.5,"170,057",$10.85M,S.S. Rajamouli,Tollywood,194 min,UA
+  Pushpa: The Rise III  ,(2015),"Action, Crime, Drama",7.1,"31,509",$4.17M,Sukumar,Tollywood,202 min,UA
+  Sita Ramam III  ,(2010),"Drama, Mystery, Romance",,"33,365",N/A,Hanu Raghavapudi,Tollywood,159 min,U
+  Fidaa Legacy  ,(I) (2009),"Comedy, Drama, Romance",7.2,"9,801",$0.8M,Sekhar Kammula,Tollywood,133 min,U
+  Pushpa: The Rise Legacy  ,(I) (2026),"Action, Crime, Drama",7.0,"27,741",unknown,Sukumar,Tollywood,151 min,UA
+  Baahubali 2: The Conclusion Vengeance  ,(II) (2007),"Action, Drama, Fantasy",8.1,"59,767",$42.0M,S.S. Rajamouli,Tollywood,154 min,UA
+  Magadheera II  ,(I) (2015),"Action, Drama, Fantasy",7.1,"22,874",,S.S. Rajamouli,Tollywood,177 min,UA
+  Arjun Reddy III  ,(2008),"Drama, Romance",8.9,"46,880",unknown,Sandeep Reddy Vanga,Tollywood,171 min,A
+  Ala Vaikunthapurramuloo III  ,(I) (2023),"Action, Comedy, Drama",nan,"24,176",$3.7M,Trivikram Srinivas,Tollywood,133 min,UA
+  Baahubali 2: The Conclusion Returns  ,(2017),"Action, Drama, Fantasy",7.4,"114,226",$54.67M,S.S. Rajamouli,Tollywood,175 min,UA
+  Karthikeya 2 Vengeance  ,(II) (2016),"Action, Adventure, Mystery",7.6,"11,958",$6.46M,Chandoo Mondeti,Tollywood,124 min,UA
+  Dookudu Chapter 3  ,(I) (2023),"Action, Comedy",6.6,"22,145",$0.68M,Srinu Vaitla,Tollywood,157 min,UA
+  Dookudu Chapter 3  ,(I) (2020),"Action, Comedy",8.3,"9,302",$1.2M,Srinu Vaitla,Tollywood,160 min,UA
+  Indra 3  ,(2015/I),"Action, Drama",7.4,"3,588",,B. Gopal,Tollywood,169 min,U
+  Dookudu 3  ,(I) (2024),"Action, Comedy",7.4,"14,410",$0.71M,Srinu Vaitla,Tollywood,173 min,UA
+  Magadheera Legacy  ,(2019/I),"Action, Drama, Fantasy",7.9,"21,446",N/A,S.S. Rajamouli,Tollywood,197 min,UA
+  Rangasthalam II  ,(2023/I),"Action, Drama",9.0,"32,284",$3.19M,Sukumar,Tollywood,160 min,UA
+  RRR Vengeance  ,(2020),"Action, Drama, Sci-Fi",8.0,"191,098",$36.53M,S.S. Rajamouli,Tollywood,162 min,UA
+  RRR Vengeance  ,(2008/I),"Action, Drama, Sci-Fi",7.5,"234,797",N/A,S.S. Rajamouli,Tollywood,210 min,UA
+  Fidaa Part 2  ,(I) (2009),"Comedy, Drama, Romance",7.4,"7,498",$1.06M,Sekhar Kammula,Tollywood,126 min,U
+  Magadheera Vengeance  ,(II) (2026),"Action, Drama, Fantasy",8.5,"47,625",$6.1M,S.S. Rajamouli,Tollywood,198 min,UA
+  Kalki 2898 AD Legacy  ,(I) (2017),"Action, Sci-Fi",8.2,"44,521",$53.02M,Nag Ashwin,Tollywood,144 min,UA
+  Srimanthudu Returns  ,(2014),"Action, Drama",7.0,"18,639",,Koratala Siva,Tollywood,176 min,U
+  Sarileru Neekevvaru Legacy  ,(I) (2011),"Action, Comedy, Drama",6.1,"10,952",,Anil Ravipudi,Tollywood,191 min,UA
+  Janatha Garage Reloaded  ,(2009),"Action, Drama",6.3,"5,759",$2.1M,Koratala Siva,Tollywood,157 min,UA
+  RRR Reloaded  ,(2025/I),"Action, Drama, Sci-Fi",8.5,"294,459",$40.77M,S.S. Rajamouli,Tollywood,196 min,UA
+  Sarileru Neekevvaru Legacy  ,(2019/I),"Action, Comedy, Drama",5.9,"10,901",$3.16M,Anil Ravipudi,Tollywood,192 min,UA
