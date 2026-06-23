@@ -230,6 +230,6 @@ It highlights practical Data Science skills using Python and serves as a strong 
 
 ## Rohit Rajaram Yadav
 
-**Aspiring Data Scientist | Python | SQL | Machine Learning | Generative AI**
+**Aspiring Data Scientist | Python | PowerBI | Machine Learning | Generative AI**
 
 ⭐ If you found this project helpful, consider giving this repository a Star.
